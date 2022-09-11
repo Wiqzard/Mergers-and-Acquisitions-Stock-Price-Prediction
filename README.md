@@ -28,9 +28,10 @@ In the case of the target company often shares will rise to a level close to tha
 However the price can get lower....
 When payed in shares of other company good estimation possible...
 
-For the acquirer, the impact of an M&A transaction depends on the deal size relative to the company’s size. The larger the potential target, the bigger the risk to the acquirer. A company may be able to withstand the failure of a small-sized acquisition, but the failure of a huge purchase may severely jeopardize its long-term success.
+For the acquirer, the impact of an M&A transaction depends on the deal size relative to the company’s size. Such risks could be integration risk
+overpayment, cilture clash. The larger the potential target, the bigger the risk to the acquirer. A company may be able to withstand the failure of a small-sized acquisition, but the failure of a huge purchase may severely jeopardize its long-term success.
 
-Trefore it is not far fetched to assume that the stock price of a company before and after the acquisition took place exhibits certain trends that can be possibly predicted and observed. Based on the above explanation of M&A I assume that for the scope of this project the most important measurable indices are share values in a certain time span before the acquisition takes place, and the value of the acquirer and target company.
+Trefore it is not far fetched to assume that the stock price of a company before and after the acquisition took place exhibits certain trends that can be possibly predicted and observed. Based on the above explanation of M&A I assume that for the scope of this project and the for me accesible data, the most important measurable indices are share values in a certain time span before the acquisition takes place, and the value of the acquirer and target company.
 
 
 
