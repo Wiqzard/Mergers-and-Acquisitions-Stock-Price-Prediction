@@ -1,0 +1,1456 @@
+ID,Parent Company,Acquisition Year,Acquisition Month,Acquired Company,Business,Country,Acquisition Price,Category,Derived Products
+1,Apple,1988,Mar,Network Innovations,Software,-,-,-,-
+2,Apple,1988,Jun,Orion Network Systems,Computer Software,-,-,-,-
+3,Apple,1988,Jun,Styleware,Computer software,-,-,-,-
+4,Apple,1988,Jul,Nashoba Systems,Computer software,-,-,-,-
+5,Apple,1989,Jan,Coral Software,Computer software,-,-,-,-
+6,Apple,1997,Feb,NeXT,Unix-like hardware and software platform,-,404000000,-,-
+7,Apple,1997,Sep,Power Computing Corporation,Macintosh clones,-,110000000,-,-
+8,Apple,1999,Jan,Xemplar Education,Software,-,4926000,-,-
+9,Apple,1999,Nov,Raycer Graphics,Computer graphic chips,-,15000000,-,-
+10,Apple,2000,Jan,NetSelector,Internet software,-,-,-,-
+11,Apple,2000,Apr,Astarte-DVD Authoring Software,Software,-,-,-,-
+12,Apple,2000,-,SoundJam MP,Software,-,-,-,-
+13,Apple,2001,-,Bluefish Labs,Productivity software,-,-,-,-
+14,Apple,2001,May,bluebuzz,Internet service provider (ISP),-,-,-,-
+15,Apple,2001,Jul,Spruce Technologies,Graphics software,-,14900000,-,-
+16,Apple,2001,Dec,PowerSchool,Online info systems services,-,66100000,-,-
+17,Apple,2002,Feb,Nothing Real,Special effects software,-,15000000,-,-
+18,Apple,2002,Apr,Zayante,FireWire chips and software,-,13000000,-,-
+19,Apple,2002,Jun,Silicon Grail Corp-Chalice,Digital effects software,-,20000000,-,-
+20,Apple,2002,Jun,Propel Software,internet and network optimization for wireless carriers,-,-,-,-
+21,Apple,2002,Jun,Prismo Graphics,Special-effects titling software for film and video,-,20000000,-,-
+22,Apple,2002,Jul,Emagic,Music production software,-,30000000,-,-
+23,Apple,2005,Mar,SchemaSoft,Software,-,-,-,-
+24,Apple,2005,Apr,FingerWorks,Gesture recognition company,-,-,-,-
+25,Apple,2006,Oct,Silicon Color,Software,-,-,-,-
+26,Apple,2006,Dec,Proximity,Software,-,-,-,-
+27,Apple,2008,Apr,P.A. Semi,Semiconductors,-,278000000,-,-
+28,Apple,2009,Jul,Placebase,Maps,-,-,-,-
+29,Apple,2009,Dec,Lala.com,Music streaming,-,17000000,-,-
+30,Apple,2010,Jan,Quattro Wireless,Mobile advertising,-,275000000,-,-
+31,Apple,2010,Apr,Intrinsity,Semiconductors,-,121000000,-,-
+32,Apple,2010,Apr,Siri,Voice control software,-,-,-,-
+33,Apple,2010,May,Gipsy Moth Studios,Application Regionalization Firm,-,12000000,-,-
+34,Apple,2010,Jul,Poly9,Web-based mapping,-,-,-,-
+35,Apple,2010,Sep,Polar Rose,Facial recognition,-,29000000,-,-
+36,Apple,2010,Sep,IMSense,High-dynamic-range (HDR) photography,-,-,-,-
+37,Apple,2011,Aug,C3 Technologies,3D mapping,-,267000000,-,-
+38,Apple,2011,Dec,Anobit,Flash memory,-,500000000,-,-
+39,Apple,2012,Feb,Chomp,App search engine,-,50000000,-,-
+40,Apple,2012,Jun,Redmatica,Audio,-,-,-,-
+41,Apple,2012,Jul,AuthenTec,PC and mobile security products,-,356000000,-,-
+42,Apple,2012,Sep,Particle,HTML5 Web app firm,-,-,-,-
+43,Apple,2013,-,Novauris Technologies,Speech recognition,-,-,-,-
+44,Apple,2013,-,OttoCat,Search engine,-,-,-,-
+45,Apple,2013,Mar,WiFiSlam,Indoor location,-,20000000,-,-
+46,Apple,2013,Jul,Locationary,Maps,-,-,-,-
+47,Apple,2013,Jul,HopStop.com,Maps,-,-,-,-
+48,Apple,2013,Aug,Passif Semiconductor,Semiconductors,-,-,-,-
+49,Apple,2013,Aug,Matcha,Media discovery app,-,-,-,-
+50,Apple,2013,Aug,Embark,Maps,-,-,-,-
+51,Apple,2013,Aug,AlgoTrim,Mobile data compression[citation needed],-,-,-,-
+52,Apple,2013,Oct,Cue,Personal assistant,-,50000000,-,-
+53,Apple,2013,Nov,PrimeSense,Structured-light 3D scanners,-,360000000,-,-
+54,Apple,2013,Dec,Topsy,Analytics,-,200000000,-,-
+55,Apple,2013,Dec,BroadMap,Maps,-,-,-,-
+56,Apple,2013,Dec,Catch.com,Software,-,-,-,-
+57,Apple,2013,Dec,Acunu,Database analytics,-,-,-,-
+58,Apple,2014,Jan,SnappyLabs,Photography software,-,-,-,-
+59,Apple,2014,Feb,Burstly,Software testing,-,-,-,-
+60,Apple,2014,May,LuxVue Technology,microLED displays,-,-,-,-
+61,Apple,2014,Jun,Spotsetter,Social search engine,-,-,-,-
+62,Apple,2014,Jun,Swell,Music streaming,-,30000000,-,-
+63,Apple,2014,Jun,BookLamp,Book analytics,-,-,-,-
+64,Apple,2014,Aug,Beats Electronics,"Headphones, music streaming (Beats Music)",-,-,-,-
+65,Apple,2014,Sep,Prss,Digital magazine,-,-,-,-
+66,Apple,2014,-,Dryft,On-Screen Keyboard,-,-,-,-
+67,Apple,2015,Jan,Camel Audio,Audio plug-ins and sound libraries,-,-,-,-
+68,Apple,2015,Jan,Semetric,Music analytics,-,50000000,-,-
+69,Apple,2015,Mar,FoundationDB,Database,-,-,-,-
+70,Apple,2015,Apr,LinX,Camera,-,20000000,-,-
+71,Apple,2015,Apr,Coherent Navigation,GPS,-,-,-,-
+72,Apple,2015,May,Metaio,Augmented reality,-,-,-,-
+73,Apple,2015,Sep,Mapsense,Mapping visualization and data collection,-,27500000,-,-
+74,Apple,2015,Sep,VocalIQ,Speech technology,-,-,-,-
+75,Apple,2015,Sep,Perceptio,"Machine learning, Image recognition",-,-,-,-
+76,Apple,2015,Nov,Faceshift,Realtime Motion Capture,-,-,-,-
+77,Apple,2016,Jan,Emotient,Emotion recognition,-,-,-,-
+78,Apple,2016,Jan,LearnSprout,Education technology,-,-,-,-
+79,Apple,2016,Jan,Flyby Media,Augmented reality,-,-,-,-
+80,Apple,2016,Feb,LegbaCore,Platform security,-,-,-,-
+81,Apple,2016,Aug,Turi,Machine learning,-,200000000,-,-
+82,Apple,2016,Aug,Gliimpse,Personal health info collection company,-,-,-,-
+83,Apple,2016,Sep,Tuplejump,Machine learning,-,-,-,-
+84,Apple,2016,Dec,Indoor.io,Indoor mapping and navigation,-,-,-,-
+85,Apple,2017,Mar,Workflow,Automation and scripting app,-,-,-,-
+86,Apple,2017,May,Beddit,Sleep tracking hardware,-,-,-,-
+87,Apple,2017,May,Lattice Data,Artificial intelligence,-,200000000,-,-
+88,Apple,2017,Jun,SensoMotoric Instruments,Eye tracking hardware and software,-,-,-,-
+89,Apple,2017,Sep,Vrvana,Augmented reality head-mounted display,-,30000000,-,-
+90,Apple,2017,Sep,Regaind,Computer vision,-,-,-,-
+91,Apple,2017,Oct,init.ai,Messaging assistant,-,-,-,-
+92,Apple,2017,Oct,PowerbyProxi,Wireless charging,-,-,-,-
+93,Apple,2017,Nov,InVisage Technologies,Quantum dot-based image sensors,-,-,-,-
+94,Apple,2017,Dec,Pop Up Archive,tools for searching digital spoken words,-,-,-,-
+95,Apple,2017,Dec,Spektral,"Computer vision, real-time editing",-,30000000,-,-
+96,Apple,2018,-,Laserlike,Machine learning,-,-,-,-
+97,Apple,2018,-,Silk Labs,"Artificial Intelligence, home monitoring",-,-,-,-
+98,Apple,2018,-,Tueo Health,Asthma monitoring,-,-,-,-
+99,Apple,2017,Dec,Silicon Valley Data Science,"Data science, data engineering, analytics",-,-,-,-
+100,Apple,2018,Jan,Buddybuild,"Continuous integration, debugging, and testing for mobile apps.",-,-,-,-
+101,Apple,2018,Mar,Texture,Digital magazine subscription service,-,-,-,-
+102,Apple,2018,Aug,Akonia Holographics,Lenses for augmented reality glasses,-,-,-,-
+103,Apple,2018,Sep,Shazam,Music and Image recognition,-,400000000,-,-
+104,Apple,2018,Oct,Dialog Semiconductor (portions),Chip development,-,600000000,-,-
+105,Apple,2018,Oct,Asaii,Music analytics,-,-,-,-
+106,Apple,2018,Dec,Platoon,Artist development,-,-,-,-
+107,Apple,2019,Feb,PullString,Speech technology,-,-,-,-
+108,Apple,2019,Mar,Stamplay,Backend workflow development,-,5600000,-,-
+109,Apple,2019,Jun,Drive.ai,Autonomous vehicles,-,-,-,-
+110,Apple,2019,Jul,Intel's smartphone modem business,Smartphone modems,-,-,-,-
+111,Apple,2019,Oct,IKinema,Motion capture,-,-,-,-
+112,Apple,2019,Dec,Spectral Edge,Low-light photography,-,-,-,-
+113,Apple,2020,Jan,Xnor.ai,"Edge computing, artificial intelligence",-,200000000,-,-
+114,Apple,2020,-,Scout FM,Podcast A.I.,-,-,-,-
+115,Apple,2020,Mar,Dark Sky,Weather forecasting and app,-,-,-,-
+116,Apple,2020,Apr,Voysis,Artificial intelligence/voice assistant,-,-,-,-
+117,Apple,2020,May,NextVR,Virtual reality events,-,100000000,-,-
+118,Apple,2020,Jun,Fleetsmith,Mobile device management,-,-,-,-
+119,Apple,2020,Jul,Mobeewave,Payments startup,-,100000000,-,-
+120,Apple,2020,Aug,Camerai,AR,-,-,-,-
+121,Apple,2020,Aug,Spaces,VR startup,-,-,-,-
+122,Apple,2021,Jan,Curious AI,Core AI startup,-,-,-,-
+123,Apple,2021,Aug,Primephonic,classical music streaming service,-,-,-,-
+124,Twitter,2008,Jul,Summize,Social search,United States,-,-,-
+125,Twitter,2008,Nov,Values of n,Social software development,-,-,-,-
+126,Twitter,2009,Dec,Mixer labs,Location information engine,-,5170000,-,-
+127,Twitter,2010,Apr,Atebits,Tweetie,United States,-,Mobile Twitter app (iOS),-
+128,Twitter,2010,Apr,Cloudhopper,Mobile messaging,-,-,-,-
+129,Twitter,2010,Jun,Smallthought Systems,Databases and analytics,-,-,Analytics tools,-
+130,Twitter,2010,Dec,Fluther,Q&A service,-,-,-,-
+131,Twitter,2011,May,TweetDeck,Web and desktop client,United States,40000000,-,-
+132,Twitter,2011,Jun,AdGrok,Advertising,-,-,-,-
+133,Twitter,2011,Jul,BackType,Social analytics,-,-,-,-
+134,Twitter,2011,Aug,Bagcheck,Social sharing and discovery,-,-,-,-
+135,Twitter,2011,Sep,Julpan,Real-time social search engine,-,-,-,-
+136,Twitter,2011,Nov,Whisper Systems,Mobile privacy and security,-,-,-,-
+137,Twitter,2012,Jan,Summify,Social news,-,-,-,-
+138,Twitter,2012,Jan,Dasient,Internet security,-,-,Revenue team,-
+139,Twitter,2012,Mar,Posterous,Blogging platform,-,-,-,-
+140,Twitter,2012,Apr,Hotspots.io,Social media intelligence,United States,-,Revenue engineering team,-
+141,Twitter,2012,May,RestEngine,Personalized email marketing,United States,-,-,-
+142,Twitter,2012,Jun,Nclud,Boutique design agency,-,-,-,-
+143,Twitter,2012,Aug,Clutch.IO,A/B tester,-,-,Design,-
+144,Twitter,2012,Oct,Vine,Video sharing service,-,30000000,-,-
+145,Twitter,2012,Oct,Cabana,Mobile app building software,-,-,-,-
+146,Twitter,2013,Jan,Crashlytics,Crash reporting,-,100000000,-,-
+147,Twitter,2013,Feb,Bluefin Labs,Social TV analytics,United States,80000000,-,-
+148,Twitter,2012,Nov,We Are Hunted,Music service,-,-,-,-
+149,Twitter,2013,May,Ubalo,Large-scale computing,-,-,-,-
+150,Twitter,2013,May,Lucky Sort,Big Data visualization,-,-,-,-
+151,Twitter,2013,Jun,Spindle Labs,Local discovery,United States,-,-,-
+152,Twitter,2013,Aug,Locomatix,-,United States,-,-,-
+153,Twitter,2013,Aug,Marakana,Training services,-,-,-,-
+154,Twitter,2013,Aug,Trendrr,Advertising solutions,-,-,-,-
+155,Twitter,2013,Sep,MoPub,Advertising solutions,-,350000000,-,-
+156,Twitter,2014,Mar,Mesagraph,Social TV,-,-,-,-
+157,Twitter,2014,Mar,SecondSync,Social TV,United Kingdom,-,-,-
+158,Twitter,2014,Apr,Cover,Android lockscreen app,-,-,-,-
+159,Twitter,2014,Apr,Gnip,Data reseller,-,134000000,-,-
+160,Twitter,2014,Jun,Namo Media,Native mobile advertising,-,50000000,MoPub,-
+161,Twitter,2014,Jun,TapCommerce,Mobile app install ads,-,100000000,-,-
+162,Twitter,2014,Jun,SnappyTV,Live clipping service,-,-,-,-
+163,Twitter,2014,Jul,CardSpring,Payment application platform,-,-,Commerce,-
+164,Twitter,2014,Jul,Madbits,Deep learning,United States,-,Twitter Cortex,-
+165,Twitter,2014,Aug,Mitro,Password security,-,-,-,-
+166,Twitter,2014,Oct,Twitpic,Photo-sharing website,-,-,-,-
+167,Twitter,2015,Jan,ZipDial,Mobile marketing and analytics,-,-,-,-
+168,Twitter,2015,Feb,Niche,Advertising and software,-,-,-,-
+169,Twitter,2015,Mar,Periscope,Live-video streaming,-,50100000000,-,-
+170,Twitter,2015,Apr,TenXer,Collaboration platform,-,50000000,-,-
+171,Twitter,2015,Apr,TellApart,Advertising,-,479000000,-,-
+172,Twitter,2015,Jun,Whetlab,Machine learning,United States,-,Twitter Cortex,-
+173,Twitter,2015,Oct,Fastlane,Deployment services,-,-,-,-
+174,Twitter,2015,Oct,ZeroPush,Push notification services,United States,-,-,-
+175,Twitter,2016,Apr,Peer,Employee and manager feedback tool,United States,-,-,-
+176,Twitter,2016,Jun,Magic Pony Technology,"Advanced video upscaling, compression and enhancement",United Kingdom,150000000,-,-
+177,Twitter,2016,Dec,"Yes, Inc",Social apps developer,United States,-,-,-
+178,Twitter,2018,Jun,Smyte,Spam & fraud prevention service,United States,65000000,-,-
+179,Twitter,2019,Apr,Highly,Highlight sharing application,-,-,-,-
+180,Twitter,2019,Jun,Fabula AI,Geometric deep learning & fake-news detection,United Kingdom,-,-,-
+181,Twitter,2019,Nov,Aiden.ai,AI-powered digital marketing,United Kingdom,-,-,-
+182,Twitter,2020,Feb,Chroma Labs,Visual Stories App,United States,-,-,-
+183,Twitter,2020,May,CrossInstall,Programmatic interactive mobile ads at scale,United States,-,-,-
+184,Twitter,2020,Dec,Squad,Real-time social video,United States,-,-,-
+185,Twitter,2021,Jan,Breaker,Social podcasting,United States,-,Twitter Spaces,-
+186,Twitter,2021,Jan,Ueno,Creative agency,-,-,-,-
+187,Twitter,2021,Jan,DriveScale,Storage Technology,United States,-,-,-
+188,Twitter,2021,Jan,Revue,Newsletter platform,-,-,-,-
+189,Amazon,1998,Apr,Bookpages,-,-,-,-,Amazon UK
+190,Amazon,1998,Apr,Telebook,-,-,55000000,-,Amazon Germany
+191,Amazon,1998,Apr,IMDb,-,-,55000000,-,IMDb
+192,Amazon,1998,Aug,Junglee,-,-,250000000,-,-
+193,Amazon,1998,Aug,PlanetAll,-,-,280000000,-,-
+194,Amazon,1999,Apr,LiveBid.com,-,-,300000000,-,-
+195,Amazon,1999,Apr,Accept.com,-,-,101700000,-,-
+196,Amazon,1999,Apr,Alexa Internet,-,-,250000000,-,Alexa Internet
+197,Amazon,1999,Apr,e-Niche Incorporated,-,-,-,-,-
+198,Amazon,1999,Oct,Convergence Corporation,-,-,23000000,-,-
+199,Amazon,1999,Nov,Tool Crib of the North (Online and Catalog Sales Division),-,-,-,-,-
+200,Amazon,1999,Nov,Back to Basics Toys,-,-,-,-,-
+201,Amazon,1999,Dec,Leep Technology Inc.,-,-,-,-,-
+202,Amazon,1999,-,MindCorps Incorporated,-,-,-,-,-
+203,Amazon,2001,Dec,Egghead Software,-,-,6100000,-,-
+204,Amazon,2001,Dec,OurHouse.com,-,-,-,-,-
+205,Amazon,2004,Aug,Joyo.com,-,-,75000000,-,Amazon China
+206,Amazon,2005,Apr,BookSurge,-,-,-,-,CreateSpace
+207,Amazon,2005,Apr,Mobipocket,-,-,-,-,Mobipocket
+208,Amazon,2005,Jul,CustomFlix,-,-,-,-,CreateSpace
+209,Amazon,2005,-,smallparts.com,-,-,-,-,Amazon Business
+210,Amazon,2006,Feb,Shopbop,-,-,-,-,Shopbop
+211,Amazon,2006,Oct,TextPayMe,-,-,3000000,-,Amazon Payments
+212,Amazon,2007,May,Digital Photography Review,-,-,-,-,Digital Photography Review
+213,Amazon,2007,May,Brilliance Audio,-,-,-,-,Brilliance Audio
+214,Amazon,2008,Jan,Withoutabox,-,-,-,-,-
+215,Amazon,2008,Jan,Audible,-,-,300000000,-,Audible
+216,Amazon,2008,Jun,Fabric.com,-,-,-,-,Fabric.com
+217,Amazon,2008,Aug,AbeBooks,-,-,-,-,AbeBooks
+218,Amazon,2008,Aug,Shelfari,-,-,-,-,Goodreads
+219,Amazon,2008,Oct,Reflexive Entertainment,-,-,-,-,Reflexive Entertainment
+220,Amazon,2008,Dec,Box Office Mojo,-,-,-,-,Box Office Mojo
+221,Amazon,2009,Apr,Lexcycle,-,-,-,-,Amazon Kindle
+222,Amazon,2009,Jun,SnapTell,-,-,-,-,-
+223,Amazon,2009,Nov,Zappos,-,-,1200000000,-,Zappos
+224,Amazon,2010,Feb,Touchco,-,-,-,-,Amazon Kindle
+225,Amazon,2010,Jul,Woot,-,-,110000000,-,Woot
+226,Amazon,2010,Sep,Amie Street,-,-,-,-,Songza
+227,Amazon,2010,Oct,BuyVIP,-,-,100000000,-,BuyVIP
+228,Amazon,2010,Nov,Quidsi,-,-,545000000,-,-
+229,Amazon,2010,Nov,Toby Press,-,-,-,-,-
+230,Amazon,2011,Jan,LoveFilm,-,-,312000000,-,Amazon Prime Video
+231,Amazon,2011,Jul,The Book Depository,-,-,-,-,Book Depository
+232,Amazon,2011,Jul,Pushbutton,-,-,-,-,-
+233,Amazon,2011,Sep,Yap,-,-,-,-,Amazon Echo
+234,Amazon,2011,Sep,Double Helix Games,-,-,-,-,Double Helix Games
+235,Amazon,2012,Feb,Teachstreet,-,-,-,-,-
+236,Amazon,2012,Mar,Kiva Systems,-,-,775000000,-,Amazon Robotics
+237,Amazon,2012,Apr,Evi,-,-,26000000,-,Amazon Echo
+238,Amazon,2012,Apr,Avalon Books,-,-,-,-,Amazon Publishing
+239,Amazon,2012,Jul,UpNext,-,-,-,-,UpNext
+240,Amazon,2013,Jan,IVONA Software,-,-,-,-,"Amazon Echo, Amazon Polly"
+241,Amazon,2013,Mar,Goodreads,-,-,-,-,Goodreads
+242,Amazon,2013,May,Liquavista,-,-,-,-,Amazon Kindle
+243,Amazon,2013,Oct,"TenMarks Education, Inc.",-,-,-,-,"TenMarks Education, Inc."
+244,Amazon,2014,Apr,ComiXology,-,-,-,-,ComiXology
+245,Amazon,2014,May,Amiato,-,-,-,-,Amazon Web Services
+246,Amazon,2014,Aug,Twitch Interactive,-,-,970000000,-,Twitch Interactive
+247,Amazon,2014,Aug,Rooftop Media,-,-,-,-,Audible
+248,Amazon,2014,Dec,GoodGame,-,-,-,-,Twitch Interactive
+249,Amazon,2015,Jan,Annapurna Labs,-,-,350000000,-,Annapurna Labs
+250,Amazon,2015,Mar,2lemetry,-,-,-,-,Amazon Web Services
+251,Amazon,2015,Apr,Shoefitr,-,-,-,-,-
+252,Amazon,2015,Apr,ClusterK,-,-,35000000,-,Amazon Web Services
+253,Amazon,2015,Jul,AppThwack,-,-,-,-,Amazon Web Services
+254,Amazon,2015,Sep,Elemental Technologies,-,-,500000000,-,AWS Elemental
+255,Amazon,2015,Sep,Safaba Translation Systems,-,-,-,-,Amazon Web Services
+256,Amazon,2015,Sep,Biba Systems,-,-,-,-,Amazon Chime
+257,Amazon,2015,Dec,Orbeus,-,-,-,-,Amazon Web Services
+258,Amazon,2016,Jan,Colis Privé,-,-,-,-,-
+259,Amazon,2016,Feb,NICE,-,-,-,-,Amazon Web Services
+260,Amazon,2016,Feb,Emvantage Payments,-,-,-,-,Amazon Web Services
+261,Amazon,2016,Jul,Cloud9 IDE,-,-,-,-,Amazon Web Services
+262,Amazon,2016,Aug,"Curse, Inc.",-,-,-,-,Curse LLC
+263,Amazon,2016,Oct,Westland,-,-,-,-,Westland
+264,Amazon,2016,Nov,Partpic,-,-,-,-,-
+265,Amazon,2017,Jan,harvest.ai,-,-,20000000,-,Amazon Web Services
+266,Amazon,2017,Mar,Thinkbox Software,-,-,-,-,Amazon Web Services
+267,Amazon,2017,Mar,Do.com,-,-,-,-,Amazon Web Services
+268,Amazon,2017,Jun,Whole Foods Market,-,-,13700000000,-,Whole Foods Market
+269,Amazon,2017,Jul,Souq.com,-,-,580000000,-,Souq.com
+270,Amazon,2017,Jul,Graphiq,-,-,50000000,-,Amazon Web Services
+271,Amazon,2017,Jul,GameSparks,-,-,10000000,-,GameSparks
+272,Amazon,2017,Sep,Wing.ae,-,-,-,-,Souq.com
+273,Amazon,2017,Oct,Body Labs,-,-,60000000,-,Body Labs
+274,Amazon,2017,Nov,Goo Technologies,-,-,-,-,Amazon Sumerian
+275,Amazon,2017,Nov,Dispatch,-,-,-,-,Amazon Scout
+276,Amazon,2017,Dec,Blink Home,-,-,90000000,-,Blink Home
+277,Amazon,2018,Jan,Sqrrl,-,-,40000000,-,Amazon Web Services
+278,Amazon,2018,Feb,Ring,-,-,839000000,-,Ring
+279,Amazon,2018,Jun,PillPack,-,-,753000000,-,PillPack
+280,Amazon,2018,Aug,Tapzo,-,-,40000000,-,Amazon Pay
+281,Amazon,2019,Jan,CloudEndure,-,-,250000000,-,Amazon Web Services
+282,Amazon,2019,Jan,TSO Logic,-,-,-,-,TSOLogic
+283,Amazon,2019,Feb,Eero,-,-,97000000,-,Eero
+284,Amazon,2019,Apr,Canvas Technology,-,-,-,-,Amazon Robotics
+285,Amazon,2019,May,Sizmek Ad Server and Sizmek Dynamic Creative Optimization,-,-,-,-,-
+286,Amazon,2019,Jun,Bebo,-,-,25000000,-,Twitch Interactive
+287,Amazon,2019,Jul,E8 Storage,-,-,-,-,Amazon Web Services
+288,Amazon,2019,Sep,IGDB,-,-,-,-,Twitch Interactive
+289,Amazon,2019,Sep,INLT,-,-,-,-,-
+290,Amazon,2020,Jun,Zoox,-,-,1200000000,-,-
+291,Amazon,2020,Dec,Wondery,-,-,-,-,Amazon Music
+292,Amazon,2021,Jan,Umbra 3D,-,-,-,-,Amazon Robotics
+293,Amazon,2021,May,Dbbest,-,-,-,-,-
+294,Amazon,2021,May,Metro-Goldwyn-Mayer,-,-,8450000000,-,Metro-Goldwyn-Mayer
+295,Amazon,2021,Jun,Art19,-,-,-,-,Amazon Music
+296,Amazon,2021,Jun,Wickr,-,-,-,-,Amazon Web Services
+297,Hp,1958,-,F.L. Moseley Company,Plotter,-,-,-,-
+298,Hp,1959,-,Boonton Radio,Flight test instrumentation,-,-,-,-
+299,Hp,1961,-,Sanborn Company,Medical equipment,-,-,-,-
+300,Hp,1962,Nov,Neely Enterprises,Sales/manufacturer's representative,-,-,-,-
+301,Hp,1965,-,F&M Scientific Corporation,Analytical chemistry,-,-,-,-
+302,Hp,1966,-,"Data Systems, Inc",Information technology,-,-,-,-
+303,Hp,1973,Jan,Hupe & Busch,Liquid Chromatography,-,-,-,-
+304,Hp,1985,Dec,"Cericor, Inc.",CAD - Logic Design,-,-,-,-
+305,Hp,1989,Jan,Eon Systems Inc.,Electronics,-,-,-,-
+306,Hp,1989,May,Apollo Computer,Computer manufacturer,-,476000000,-,-
+307,Hp,1989,Nov,Certain assets of Optotech Inc.,Disk drive,-,-,-,-
+308,Hp,1991,Jan,Applied Optoelectronic Tech,Automatic test equipment,-,-,-,-
+309,Hp,1991,Nov,Avantek,Transistor,-,-,-,-
+310,Hp,1991,Dec,ABB CADE,Computer software,-,-,-,-
+311,Hp,1992,Sep,Colorado Memory Systems,Magnetic tape,-,-,-,-
+312,Hp,1992,Sep,French and German units of Leasametric,Company leasing,-,-,-,-
+313,Hp,1992,Oct,Computer systems from Texas Instruments,Computer systems,-,-,-,-
+314,Hp,1993,-,Ericsson Hewlett Packard Telecom (EHPT) 60% Ericsson and 40% Hewlett-Packard.,Telecoms,-,-,-,-
+315,Hp,1993,Apr,Four Pi Systems Corp.,Automatic test equipment,-,-,-,-
+316,Hp,-,-,Metrix Network Systems,Computer networking,-,-,-,-
+317,Hp,1993,Sep,BT&D Technologies,Electronics,-,-,-,-
+318,Hp,1993,Oct,EEsof Inc.,Computer software,-,-,-,-
+319,Hp,1994,-,Versatest,Automatic test equipment,-,-,-,-
+320,Hp,1994,-,Canstar Systems (an Alcatel Canada Wire Inc division),Fibre Channel switch,-,-,-,-
+321,Hp,1995,Jun,CaLan Inc.,Automatic test equipment,-,-,-,-
+322,Hp,1995,Sep,Convex Computer,Computer manufacturer,-,150000000,-,-
+323,Hp,1995,Dec,ElseWare Corp.,Computer programming,-,-,-,-
+324,Hp,1996,Feb,SecureWare Internet security division,Computer security,-,-,-,-
+325,Hp,1996,Jun,Graphics technology from Parametric Technology Corporation,Graphics hardware,-,9273000,-,-
+326,Hp,1996,Jun,Division Inc.,Computer programming,-,6000000,-,-
+327,Hp,1996,Jul,DP-Tek Development,Imaging,-,-,-,-
+328,Hp,1996,Aug,Trellis Software & Controls,Motion control,-,-,-,-
+329,Hp,1997,Mar,Vital Technology Pte Ltd,Investment,-,-,-,-
+330,Hp,1997,Apr,VeriFone,Electronic bill payment,-,1180000000,-,-
+331,Hp,1997,Jun,PROLIN,Information technology,-,-,-,-
+332,Hp,1997,Sep,Internet printing technology from ForeFront Group,Printing,-,2500000,-,-
+333,Hp,1997,Nov,Nuview ManageX from Nuview Inc.,Business process management,-,-,-,-
+334,Hp,1997,Nov,Optimazation systems,Computer software,-,-,-,-
+335,Hp,1998,Jan,Business related assets of Siltek,Information technology,-,-,-,-
+336,Hp,1998,Mar,Heartstream,Medical equipment,-,-,-,-
+337,Hp,1998,Jun,Computing & Measurement Systems,Computers,-,-,-,-
+338,Hp,1998,Oct,Scope Communications Inc.,Cable tester,-,-,-,-
+339,Hp,1998,Oct,"Open Skies, Inc.",Computer software,-,-,-,-
+340,Hp,1999,May,Printmountain,Printing,-,-,-,-
+341,Hp,1999,May,Telegra Corp,Computer software,-,-,-,-
+342,Hp,1999,May,Transoft Networks,Storage area network,-,-,-,-
+343,Hp,1999,Jun,Dazel Corporation,Computer software,-,-,-,-
+344,Hp,1999,Aug,Security Force Software,Computer security,-,-,-,-
+345,Hp,1999,Sep,Qosnetics,Information technology,-,-,-,-
+346,Hp,2001,Jan,Bluestone Software,Computer software,-,470000000,-,-
+347,Hp,2001,Aug,Comdisco Inc.,Information technology,-,610000000,-,-
+348,Hp,2001,Aug,Trinagy Inc.,Computer software,-,-,-,-
+349,Hp,2001,Sep,StorageApps,Data storage,-,350000000,-,-
+350,Hp,2002,Mar,Indigo N.V,Printing service,-,-,-,-
+351,Hp,2002,May,Compaq,Personal computer,-,25000000000,-,-
+352,Hp,2003,May,Procter & Gamble IT,Information technology,-,3000000000,-,-
+353,Hp,2003,Jun,Ericsson IT,Information technology,-,-,-,-
+354,Hp,2003,Jul,PipeBeach,Communication software,-,-,-,-
+355,Hp,-,-,Extreme Logic Inc.,Information technology,-,-,-,-
+356,Hp,-,-,Talking Blocks,Web service,-,-,-,-
+357,Hp,2003,Sep,SelectAccess assets of Baltimore Technologies,Computer security,-,-,-,-
+358,Hp,-,-,Persist Technology,Computer software,-,-,-,-
+359,Hp,2004,Feb,Consera Software,Computer software,-,-,-,-
+360,Hp,-,-,Triaton Gmbh,Information technology,-,-,-,-
+361,Hp,-,-,TruLogica,Computer software,-,-,-,-
+362,Hp,2004,Apr,Novadigm Inc.,Computer software,-,-,-,-
+363,Hp,2004,May,IT Infrastructure Management LLC(doing business as ManageOne),Information technology consulting,-,-,-,-
+364,Hp,2004,May,CEC Europe Service Management,Information technology consulting,-,-,-,-
+365,Hp,2004,Jun,Networking technology from Riverstone Networks,Computer networking,-,-,-,-
+366,Hp,2004,Oct,Synstar,Information technology,-,-,-,-
+367,Hp,2005,Jan,IT division of West LB AG,Information technology,-,-,-,-
+368,Hp,2005,Apr,Snapfish,Photo sharing,-,-,-,-
+369,Hp,-,-,CGNZ,Information technology consulting,-,-,-,-
+370,Hp,-,-,AppIQ,Data storage,-,-,-,-
+371,Hp,-,-,RLX Technologies,Computer software,-,-,-,-
+372,Hp,2005,Nov,Scitex Vision,Printing service,-,230000000,-,-
+373,Hp,-,-,Trustgenix Inc.,Computer software,-,-,-,-
+374,Hp,-,-,PIXACO,Online photo services,-,-,-,-
+375,Hp,2005,Dec,Peregrine Systems,Computer software,-,425000000,-,-
+376,Hp,-,-,OuterBay,Computer software,-,-,-,-
+377,Hp,-,-,Silverwire,Imaging,-,-,-,-
+378,Hp,2006,Jun,The Technology Partners,Information technology consulting,-,-,-,-
+379,Hp,2006,Oct,VoodooPC,Computer manufacturer,-,-,-,-
+380,Hp,2006,Nov,Mercury Interactive,Computer software,-,4500000000,-,-
+381,Hp,-,-,Knightsbridge Solutions,Information management,-,-,-,-
+382,Hp,-,-,Bitfone Corp.,Computer software,-,-,-,-
+383,Hp,-,-,Bristol Technology,Computer software,-,-,-,-
+384,Hp,-,-,Polyserve,Computer software,-,-,-,-
+385,Hp,-,-,Tabblo Inc.,Computer software,-,-,-,-
+386,Hp,-,-,Arteis,Computer software,-,-,-,-
+387,Hp,-,-,SPI Dynamic Inc.,Computer software,-,-,-,-
+388,Hp,2007,Jul,Opsware,Computer software,-,1600000000,-,-
+389,Hp,-,-,Neoware,Thin client,-,214000000,-,-
+390,Hp,-,-,MacDermid ColorSpan Inc.,Printer manufacturer,-,-,-,-
+391,Hp,-,-,Atos Origin Middle East Group,Information technology consulting,-,-,-,-
+392,Hp,2008,Feb,EYP Mission Critical Facilities Inc.,Information technology consulting,-,-,-,-
+393,Hp,2008,Mar,NUR Macroprinters Ltd,Printer,-,457076000,-,-
+394,Hp,2008,Mar,Exstream Software,Computer software,-,371000000,-,-
+395,Hp,-,-,TOWER Software,Computer software,-,101529000,-,-
+396,Hp,-,-,Colubris Networks,Wireless networking,-,-,-,-
+397,Hp,2008,Aug,Electronic Data Systems,Information technology consulting,-,13900000000,-,-
+398,Hp,-,-,LeftHand Networks Inc.,Data storage,-,360000000,-,-
+399,Hp,2009,Aug,"IBRIX, Inc.",Computer software,-,-,-,-
+400,Hp,2010,Apr,3Com,Computer networking,-,2700000000,-,-
+401,Hp,2010,Jun,Melodeo,Computer software,-,30000000,-,-
+402,Hp,2010,Jun,Phoenix Technologies,Computer software,-,12000000,-,-
+403,Hp,2010,Jul,"Palm, Inc.",Smartphone manufacturer,-,1200000000,-,-
+404,Hp,2010,Aug,Stratavia,Computer software,-,-,-,-
+405,Hp,2010,Sep,3PAR,Data Storage,-,2350000000,-,-
+406,Hp,2010,Sep,Fortify Software,Computer software,-,-,-,-
+407,Hp,2010,Oct,ArcSight,Corporate computer security management,-,1500000000,-,-
+408,Hp,2011,Mar,"Vertica Systems, Inc.",Enterprise database software,-,350000000,-,-
+409,Hp,2011,Oct,Autonomy Corporation,Information management,-,11000000000,-,-
+410,Hp,2011,Dec,Hiflex,Information management,-,-,-,-
+411,Hp,2013,Feb,Memlane,Information technology,-,-,-,-
+412,Hp,2014,May,Shunra,Computer networking software,-,-,-,-
+413,Hp,2014,Sep,Eucalyptus,Cloud computing software,-,-,-,-
+414,Hp,2015,May,Voltage Security,Cloud security software,-,-,-,-
+415,Hp,2015,Feb,Aruba Networks,Mobile networking,-,-,-,-
+416,Hp,2015,May,ConteXtream,Networking software,-,-,-,-
+417,Hp,2016,Feb,Trilead,Data protection software,-,undisclosed,-,-
+418,Hp,2016,May,RASA Networks,Network Performance and Analytics software,-,undisclosed,-,-
+419,Hp,2016,Aug,SGI,Computer hardware,-,275000000,-,-
+420,Hp,-,-,Samsung's Printing Business,Printing and Imaging,South Korea,1050000000,-,-
+421,Hp,2017,May,SimpliVity,Hyperconverged Infrastructure,-,650000000,-,-
+422,Hp,2017,Jan,Cloud Cruiser,Cloud Cost Management and Optimization,-,-,-,-
+423,Hp,-,-,Nimble Storage,Flash and Hybrid Data Storage,-,1090000000,-,-
+424,Hp,2021,Feb,HyperX,Computer peripherals,-,425000000,-,-
+425,Hp,2021,Oct,Teradici,Remote desktop software,-,-,-,-
+426,Google,2001,Feb,Dejavue,Usenet,-,-,-,Google Groups
+427,Google,2001,Sep,Outride,Web search engine,-,-,-,Google Personalized Search
+428,Google,2003,Feb,Pyra Labs,Weblog software,-,-,-,Blogger
+429,Google,2003,Apr,Neotonic Software,Customer relationship management,-,-,-,"Google Groups, Gmail"
+430,Google,2003,Apr,Applied Semantics,Online advertising,-,102000000,-,"AdSense, AdWords"
+431,Google,2003,Sep,Kaltix,Web search engine,-,-,-,iGoogle
+432,Google,2003,Oct,Sprinks,Online advertising,-,-,-,"AdSense, AdWords"
+433,Google,2003,Oct,Genius Labs,Blogging,-,-,-,Blogger
+434,Google,2004,May,Ignite Logic,HTML editor,-,-,-,Google Sites
+435,Google,2004,Jul,Picasa,Image organizer,-,-,-,"Picasa, Blogger"
+436,Google,2004,Sep,ZipDash,Traffic analysis,-,-,-,Google Maps
+437,Google,2004,Oct,Where2,Map analysis,-,-,-,Google Maps
+438,Google,2004,Oct,Keyhole,Map analysis,-,-,-,"Google Maps, Google Earth"
+439,Google,2005,Mar,Urchin Software Corporation,Web analytics,-,-,-,Google Analytics
+440,Google,2005,May,Dodgeball,Social networking service,-,-,-,Google Latitude
+441,Google,2005,Jul,Akwan Information Technologies,Search engines,-,-,-,Internet backbone
+442,Google,2005,Jul,Reqwireless,Mobile browser,-,-,-,Google Mobile
+443,Google,2005,Aug,Android,Mobile operating system,-,50000000,-,Android
+444,Google,2005,Nov,Skia,Graphics library,-,-,-,Skia
+445,Google,2005,Dec,Phatbits,Widget engine,-,-,-,Google Desktop
+446,Google,2005,Dec,allPAY,Mobile software,-,-,-,Google Mobile
+447,Google,2005,Dec,bruNET,Mobile software,-,-,-,Google Mobile
+448,Google,2006,Jan,dMarc Broadcasting,Advertising,-,102000000,-,AdSense
+449,Google,2006,Feb,Measure Map,Weblog software,-,-,-,Google Analytics
+450,Google,2006,Mar,Upstartle,Word processor,-,-,-,Google Docs
+451,Google,2006,Mar,@Last Software,3D modeling software,-,-,-,Google Sketchup
+452,Google,2006,Apr,Orion,Web search engine,-,-,-,Google Search
+453,Google,2006,Jun,2Web Technologies,Online spreadsheets,-,-,-,Google Spreadsheet
+454,Google,2006,Aug,Neven Vision Germany,Computer vision,-,-,-,"Picasa, Google Goggles"
+455,Google,2006,Oct,YouTube,Video sharing,-,-,-,YouTube
+456,Google,2006,Oct,JotSpot,Web application,-,-,-,Google Sites
+457,Google,2006,Dec,Endoxon,Mapping,-,28000000,-,Google Maps
+458,Google,2007,Feb,Adscape,In-game advertising,-,23000000,-,AdSense
+459,Google,2007,Mar,Trendalyzer,Statistical software,-,-,-,Google Analytics
+460,Google,2007,May,Crusix,Social networking service,-,-,-,YouTube
+461,Google,2007,Apr,Tonic Systems,Presentation program,-,-,-,Google Docs
+462,Google,2007,Apr,Marratech,Videoconferencing,-,15000000,-,"Google Talk, Google Hangouts"
+463,Google,2007,Apr,DoubleClick,Online advertising,-,-,-,AdSense
+464,Google,2007,May,GreenBorder,Computer security,-,-,-,Google Chrome
+465,Google,2007,Jun,Panoramio,Photo sharing,-,-,-,Panoramio
+466,Google,2007,Jun,FeedBurner,Web feed,-,100000000,-,FeedBurner
+467,Google,2007,Jun,PeakStream,Parallel processing,-,-,-,Android
+468,Google,2007,Jun,Zenter,Presentation program,-,-,-,Google Docs
+469,Google,2007,Jul,GrandCentral,Voice over IP,-,45000000,-,Google Voice
+470,Google,2007,Jul,ImageAmerica,Aerial photography,-,-,-,Google Maps
+471,Google,2007,Jul,Postini,Communications security,-,625000000,-,Gmail
+472,Google,2007,Sep,Zingku,Social networking service,-,-,-,Google Mobile
+473,Google,2007,Oct,Jaiku,Microblogging,-,-,-,Google Mobile
+474,Google,2008,Jul,Omnisio,Online video,-,15000000,-,YouTube
+475,Google,2008,Sep,TNC,Weblog software,-,-,-,Blogger
+476,Google,2009,Aug,On2,Video compression,-,133000000,-,"WebM, YouTube"
+477,Google,2009,Sep,reCAPTCHA,Security,-,-,-,"Google Books, reCAPTCHA"
+478,Google,2009,Nov,AdMob,Mobile advertising,-,-,-,"DoubleClick, Invite Media"
+479,Google,2009,Nov,Gizmo5,Voice over IP,-,30000000,-,"Google Talk, Google Hangouts"
+480,Google,2009,Nov,Teracent,Online advertising,-,-,-,AdSense
+481,Google,2009,Dec,AppJet,Collaborative real-time editor,-,-,-,"Google Wave, Google Docs"
+482,Google,2010,Feb,Aardvark,Social search,-,50000000,-,Aardvark
+483,Google,2010,Feb,reMail,Email search,-,-,-,Gmail
+484,Google,2010,Mar,Picnik,Photo editing,-,-,-,Picasa
+485,Google,2010,Mar,DocVerse,Microsoft Office files sharing site,-,25000000,-,Google Docs
+486,Google,2010,Apr,Episodic,Online video platform start-up,-,-,-,YouTube
+487,Google,2010,Apr,Plink,Visual search engine,-,-,-,Google Goggles
+488,Google,2010,Apr,Agnilux,Server CPUs,-,-,-,Android
+489,Google,2010,Apr,LabPixies,Gadgets,-,-,-,"iGoogle, Android"
+490,Google,2010,Apr,BumpTop,Desktop environment,-,30000000,-,Android
+491,Google,2010,May,Global IP Solutions,Video and audio compression,-,68200000,-,WebRTC
+492,Google,2010,May,Simplify Media,Music streaming,-,-,-,Android
+493,Google,2010,May,Ruba.com,Travel,-,-,-,iGoogle
+494,Google,2010,Jun,Invite Media,Advertising,-,81000000,-,DoubleClick
+495,Google,2010,Jul,Metaweb,Semantic search,-,-,-,Google Search
+496,Google,2010,Aug,Zetawire,"Mobile payment, NFC",-,-,-,"Android, Google Wallet, Google Checkout"
+497,Google,2010,Aug,Instantiations,Java/Eclipse/AJAX developer tools,-,-,-,Google Web Toolkit
+498,Google,2010,Aug,Slide.com,Social gaming,-,228000000,-,"Google+, Orkut, Google Play"
+499,Google,2010,Aug,Jambool,Social Gold payment,-,70000000,-,"Google+, Orkut"
+500,Google,2010,Aug,Like.com,Visual search engine,-,100000000,-,Google Shopping
+501,Google,2010,Aug,Angstro,Social networking service,-,-,-,"Google, Google Alert"
+502,Google,2010,Aug,SocialDeck,Social gaming,-,-,-,"Google, Google+"
+503,Google,2010,Sep,Quiksee,Online video,-,10000000,-,Google Maps
+504,Google,2010,Sep,Plannr,Schedule management,-,-,-,Google+
+505,Google,2010,Oct,BlindType,Touch typing,-,-,-,Android
+506,Google,2010,Dec,Phonetic Arts,Speech synthesis,-,-,-,"Google Voice, Google Translate"
+507,Google,2010,Dec,Widevine Technologies,DRM,-,-,-,Google TV
+508,Google,2011,Jan,eBook Technologies,E-book,-,-,-,Google Books
+509,Google,2011,Jan,SayNow,Voice recognition,-,-,-,Google Voice
+510,Google,2011,Mar,Zynamics,Security,-,-,-,Project Zero
+511,Google,2011,Mar,BeatThatQuote.com,Price comparison service,-,65000000,-,Google Shopping
+512,Google,2011,Mar,Next New Networks,Online video,-,-,-,YouTube
+513,Google,2011,Mar,Green Parrot Pictures,Digital video,-,-,-,YouTube
+514,Google,2011,Apr,PushLife,Service provider,-,25000000,-,Google Play
+515,Google,2011,Apr,ITA Software,Travel technology,-,676000000,-,Google Flights
+516,Google,2011,Apr,TalkBin,Mobile software,-,-,-,Android
+517,Google,2011,May,Sparkbuy,Product search,-,-,-,Google Shopping
+518,Google,2011,Jun,PostRank,Social media analytics service,-,-,-,Google+ Google Analytics
+519,Google,2011,Jun,Admeld,Online advertising,-,400000000,-,"DoubleClick, Invite Media"
+520,Google,2011,Jun,SageTV,Media center,-,-,-,"Google TV, Google Fiber, Android TV"
+521,Google,2011,Jul,Punchd,Loyalty program,-,-,-,Google Offers
+522,Google,2011,Jul,Fridge,Social groups,-,-,-,Google+
+523,Google,2011,Jul,PittPatt,Facial recognition system,-,-,-,Android
+524,Google,2011,Aug,Dealmap,One deal a day service,-,-,-,Google Offers
+525,Google,2011,Aug,Motorola Mobility,Mobile device manufacturer,-,-,-,"Android, Google TV, Android TV, Patent portfolio"
+526,Google,2011,Sep,Zave Networks,Digital coupons,-,-,-,Google Offers
+527,Google,2011,Sep,Zagat,Restaurant reviews,-,151000000,-,"Google Places, Google Maps"
+528,Google,2011,Sep,DailyDeal,One deal a day service,-,114000000,-,Google Offers
+529,Google,2011,Oct,SocialGrapple,Social media analytics service,-,-,-,Google+ Google Analytics
+530,Google,2011,Nov,Apture,Instantaneous search,-,-,-,Google Search
+531,Google,2011,Nov,Katango,Social circle organization,-,-,-,Google+
+532,Google,2011,Dec,RightsFlow,Music rights management,-,-,-,YouTube
+533,Google,2011,Dec,Clever Sense,Local recommendations app,-,-,-,Google Maps
+534,Google,2012,Mar,Milk,Software company,-,-,-,Google+
+535,Google,2012,Apr,TxVia,Online payments,-,-,-,"Google Wallet, Google Checkout"
+536,Google,2012,Jun,Meebo,Social networking,-,100000000,-,Google+
+537,Google,2012,Jun,Quickoffice,Mobile office suite,-,-,-,Google Docs
+538,Google,2012,Jul,Sparrow,Mobile apps,-,25000000,-,Gmail
+539,Google,2012,-,WIMM Labs,Android-powered smartwatches,-,-,-,Android Wear
+540,Google,2012,Aug,Wildfire Interactive,Social media marketing,-,450000000,-,"Google, Google+"
+541,Google,2012,Sep,VirusTotal.com,Security,-,-,-,Chronicle
+542,Google,2012,Sep,Nik Software,Photography,-,-,-,"Google, Android"
+543,Google,2012,Oct,Viewdle,Facial recognition,-,45000000,-,Android
+544,Google,2012,Nov,Incentive Targeting,Digital coupons,-,-,-,Google Offers
+545,Google,2012,Nov,BufferBox,Package delivery,-,17000000,-,"Google Shopping, Android"
+546,Google,2013,Feb,Channel Intelligence,Product ecommerce,-,125000000,-,Google Shopping
+547,Google,2013,Mar,DNNresearch,Deep Neural Networks,-,44000000,-,"Google, X"
+548,Google,2013,Mar,Talaria Technologies,Cloud computing,-,-,-,Google Cloud
+549,Google,2013,Apr,Behavio,Social Prediction,-,-,-,Google Now
+550,Google,2013,Apr,Wavii,Natural Language Processing,-,30000000,-,Google Knowledge Graph
+551,Google,2013,May,Makani Power,Airborne wind turbines,-,-,-,X
+552,Google,2013,Jun,Waze,GPS navigation software,-,966000000,-,"Google Maps, Waze"
+553,Google,2013,Sep,Bump,Mobile software,-,-,-,Google Photos
+554,Google,2013,Oct,Flutter,Gesture recognition technology,-,40000000,-,"Google, Android, X"
+555,Google,2013,Oct,FlexyCore,DroidBooster App for Android,-,23000000,-,Android
+556,Google,2013,Dec,Schaft,"Robotics, humanoid robots",-,-,-,X
+557,Google,2013,Dec,Industrial Perception,"Robotic arms, computer vision",-,-,-,X
+558,Google,2013,Dec,Redwood Robotics,Robotic arms,-,-,-,X
+559,Google,2013,Dec,Meka Robotics,Robots,-,-,-,X
+560,Google,2013,Dec,Holomni,Robotic wheels,-,-,-,X
+561,Google,2013,Dec,Bot & Dolly,Robotic cameras,-,-,-,X
+562,Google,2013,Dec,Autofuss,Ads and Design,-,-,-,X
+563,Google,2014,Jan,Bitspin,Timely App for Android,-,-,-,Android
+564,Google,2014,Jan,Nest Labs,Home automation,-,-,-,Nest Labs
+565,Google,2014,Jan,Impermium,Internet security,-,-,-,Project Zero
+566,Google,2014,Jan,DeepMind Technologies,Artificial intelligence,-,625000000,-,Google DeepMind
+567,Google,2014,Feb,SlickLogin,Internet Security,-,-,-,Project Zero
+568,Google,2014,Feb,spider.io,Anti-click fraud,-,-,-,"DoubleClick, AdSense"
+569,Google,2014,Mar,GreenThrottle,Gadgets,-,-,-,Android
+570,Google,2014,Apr,Titan Aerospace,High-altitude UAVs,-,-,-,Project Loon
+571,Google,2014,May,Rangespan,E-commerce,-,-,-,Google Shopping
+572,Google,2014,May,Adometry,Online advertising attribution,-,-,-,Google Analytics AdSense
+573,Google,2014,May,Appetas,Restaurant website creation,-,-,-,Google My Business
+574,Google,2014,May,Stackdriver,Cloud computing,-,-,-,Google Cloud Platform
+575,Google,2014,May,MyEnergy,Online energy usage monitoring,-,-,-,Nest Labs
+576,Google,2014,May,Quest Visual,Augmented reality,-,-,-,Google Translate
+577,Google,2014,May,Divide,Mobile device management,-,-,-,Android for Work
+578,Google,2014,Jun,Skybox Imaging,Satellite,-,500000000,-,"Google Maps, Project Loon"
+579,Google,2014,Jun,mDialog,Online advertising,-,-,-,DoubleClick
+580,Google,2014,Jun,Alpental Technologies,Wireless,-,-,-,Google
+581,Google,2014,Jun,Dropcam,Home monitoring,-,555000000,-,Nest Labs
+582,Google,2014,Jun,Appurify,Automated application testing,-,-,-,Android
+583,Google,2014,Jul,Songza,Music streaming,-,-,-,"Google Play, Android TV"
+584,Google,2014,Jul,drawElements,Graphics compatibility testing,-,-,-,Android
+585,Google,2014,Aug,Emu,IM client,-,-,-,"Google Hangouts, Google Now"
+586,Google,2014,Aug,Director,Mobile video,-,-,-,"YouTube, Android"
+587,Google,2014,Aug,Jetpac,"Artificial intelligence, image recognition",-,-,-,Picasa
+588,Google,2014,Aug,Gecko Design,Mechanical design,-,-,-,X
+589,Google,2014,Aug,Zync Render,Cloud-based visual effects software,-,-,-,Google Cloud Platform
+590,Google,2014,Sep,Lift Labs,Liftware,-,-,-,Verily
+591,Google,2014,Sep,Polar,Social polling,-,-,-,Google+
+592,Google,2014,Oct,Firebase,Application development platform,-,-,-,Google Cloud Platform
+593,Google,2014,Oct,Dark Blue Labs & Vision Factory,Artificial intelligence,-,10000000,-,Google DeepMind
+594,Google,2014,Oct,Revolv,Home automation,-,-,-,Nest Labs
+595,Google,2014,Nov,RelativeWave,Mobile software prototyping,-,-,-,Android
+596,Google,2014,Dec,Vidmaker,Video editing,-,-,-,YouTube
+597,Google,2015,Feb,Launchpad Toys,Child-friendly apps,-,-,-,YouTube for Kids
+598,Google,2015,Feb,Odysee,Multimedia sharing and storage,-,-,-,Google+
+599,Google,2015,Feb,Softcard,Mobile payments,-,-,-,Android Pay
+600,Google,2015,Feb,Red Hot Labs,App advertising and discovery,-,-,-,Google Play
+601,Google,2015,Apr,Thrive Audio,Surround sound technology,-,-,-,Google Cardboard
+602,Google,2015,Apr,Skillman & Hackett,Virtual reality software,-,-,-,Tilt Brush
+603,Google,2015,May,Timeful,Mobile software,-,-,-,"Google Inbox, Google Calendar"
+604,Google,2015,May,Pulse.io,Mobile app optimizer,-,-,-,Android
+605,Google,2015,Jul,Pixate,Mobile software prototyping,-,-,-,Android
+606,Google,2015,Sep,Oyster,E-book subscriptions,-,-,-,Google Play Books
+607,Google,2015,Sep,Jibe Mobile,Rich Communication Services,-,-,-,Messages
+608,Google,2015,Jun,Agawi,Mobile application streaming,-,-,-,"Android, Google Play"
+609,Google,2015,Oct,Digisfera,360-degree photography,-,-,-,Street View
+610,Google,2015,Nov,Fly Labs,Video editing,-,-,-,Google Photos
+611,Google,2015,Nov,bebop,Cloud software,-,380000000,-,Google Cloud Platform
+612,Google,2016,Feb,BandPage,Platform for musicians,-,-,-,YouTube
+613,Google,2016,Feb,Pie,Enterprise communications,-,-,-,Spaces
+614,Google,2016,May,Synergyse,Interactive learning platform,-,-,-,Google Docs
+615,Google,2016,Jun,Webpass,Internet service provider,-,-,-,Google Fiber
+616,Google,2016,Jul,Moodstocks,Image recognition,-,-,-,Google Photos
+617,Google,2016,Jul,Anvato,Cloud-based video services,-,-,-,Google Cloud Platform
+618,Google,2016,Jul,Kifi,Link management,-,-,-,Spaces
+619,Google,2016,Jul,LaunchKit,Mobile developer tools,-,-,-,Firebase
+620,Google,2016,Aug,Orbitera,Cloud software,-,100000000,-,Google Cloud Platform
+621,Google,2016,Sep,Apigee,API management and predictive analytics,-,625000000,-,Google Cloud Platform
+622,Google,2016,Sep,Urban Engines,Location-based analytics,-,-,-,Google Maps
+623,Google,2016,Sep,API.AI,Natural language processing,-,-,-,Google Assistant
+624,Google,2016,Oct,FameBit,Branded content,-,-,-,YouTube
+625,Google,2016,Oct,Eyefluence,"Eye tracking, virtual reality",-,-,-,-
+626,Google,2016,Nov,LeapDroid,Android Emulator,-,-,-,Android
+627,Google,2016,Nov,Qwiklabs,Cloud-based hands-on training platform,-,-,-,Google Cloud Platform
+628,Google,2016,Dec,Cronologics,Smartwatches,-,-,-,Android Wear
+629,Google,2017,Jan,Limes Audio,Voice communication,-,-,-,"Google Duo, Google Hangouts"
+630,Google,2017,Jan,Fabric,Mobile app platform,-,-,-,Firebase
+631,Google,2017,Mar,Kaggle,Data science,-,-,-,Google Cloud Platform
+632,Google,2017,Mar,AppBridge,Productivity suite,-,-,-,Google Docs
+633,Google,2017,May,Owlchemy Labs,Virtual reality studio,-,-,-,-
+634,Google,2017,Jul,Halli Labs,Artificial intelligence,-,-,-,-
+635,Google,2017,Aug,AIMatter,Computer vision,-,-,-,YouTube
+636,Google,2017,Sep,HTC (portions),Talent and intellectual property licenses,-,-,-,Google Pixel
+637,Google,2017,Sep,Bitium,Single sign-on and identity management,-,-,-,Google Cloud Platform
+638,Google,2017,Oct,Relay Media,AMP converter,-,-,-,Accelerated Mobile Pages
+639,Google,2017,Oct,60db,Podcasts,-,-,-,"Google Play Music, Google Podcasts"
+640,Google,2018,Jan,Redux,Audio,-,-,-,-
+641,Google,2018,Mar,Tenor,GIF image search,-,-,-,"Google Images, Gboard"
+642,Google,2018,May,Velostrata,Cloud migration,-,-,-,Google Cloud Platform
+643,Google,2018,May,Cask,"Big data, Hadoop",-,-,-,Google Cloud Platform
+644,Google,2018,Aug,GraphicsFuzz,GPU reliability,-,-,-,Android
+645,Google,2018,Sep,Senosis,Health monitoring,-,-,-,Nest Labs
+646,Google,2018,Oct,Onward,"Machine learning, natural language processing",-,-,-,-
+647,Google,2018,Nov,Workbench Education,Education technology,-,-,-,Google Classroom
+648,Google,2018,Dec,Sigmoid Labs,Indian Railways Train Tracking,-,40000000,-,Google Maps
+649,Google,2018,Dec,DevOps Research and Assessment,Research and Assessment,-,-,-,Google Cloud Platform
+650,Google,2019,Jan,Superpod,Question and answer app,-,60000000,-,Google Assistant
+651,Google,2019,Feb,Alooma,"Big data, cloud migration",-,-,-,Google Cloud Platform
+652,Google,2019,Mar,Nightcorn,Video sharing,-,-,-,YouTube
+653,Google,2019,Jun,Looker,"Big data, analytics",-,-,-,Google Cloud Platform
+654,Google,2019,Jul,Elastifile,File storage,-,-,-,Google Cloud Platform
+655,Google,2019,Oct,Socratic,Learning apps,-,-,-,Google Classroom
+656,Google,2019,Nov,CloudSimple,Cloud hosting,-,-,-,Google Cloud Platform
+657,Google,2019,Dec,Typhoon Studios,Video game development,-,-,-,Stadia
+658,Google,2020,Jan,AppSheet,Mobile app development,-,-,-,Google Cloud Platform
+659,Google,2020,Jan,Pointy,Local retail inventory feeds,-,163000000,-,Google Maps
+660,Google,2020,Feb,Cornerstone Technology B.V.,"Mainframe, cloud migration",-,-,-,Google Cloud Platform
+661,Google,2020,Jun,North,Smart glasses,-,180000000,-,-
+662,Google,2020,Aug,Stratozone,Cloud Assessment,-,-,-,Google Cloud Platform
+663,Google,2020,Dec,Dataform,"Big data, analytics",-,-,-,Google Cloud Platform
+664,Google,2020,Dec,Neverware,Chrome OS distribution,-,-,-,Chrome OS
+665,Google,2020,Dec,Actifio,"Backup, Disaster Recovery",-,-,-,Google Cloud Platform
+666,Google,2021,Jan,Fitbit,Wearables,-,-,-,Wear OS
+667,Google,2021,Feb,Provino,Cloud hardware,-,-,-,Tensor processing unit
+668,Google,2021,Apr,Dysonics,Audio hardware,-,-,-,Pixel Buds
+669,Google,2021,Sep,Playspace,Collaboration tool,-,-,-,Google Workspace
+670,Microsoft,1987,Jul,"Forethought, Inc.",Computer software,-,14000000,-,-
+671,Microsoft,1991,Mar,Consumers Software,Software,-,-,-,-
+672,Microsoft,1992,Jun,Fox Software,PC database software,-,-,-,-
+673,Microsoft,1994,Feb,Softimage,Wholesale 3-D visualization software,-,130000000,-,-
+674,Microsoft,1994,Sep,Altamira Software,Software,-,-,-,-
+675,Microsoft,1994,Nov,NextBase,Software,-,-,-,-
+676,Microsoft,1994,Nov,One Tree Software,Software,-,-,-,-
+677,Microsoft,1995,Feb,RenderMorphics,3D graphics hardware,-,-,-,-
+678,Microsoft,1995,Jul,Network Managers,Systems design,-,-,-,-
+679,Microsoft,1995,Oct,The Blue Ribbon SoundWorks,Software,-,-,-,-
+680,Microsoft,1995,Nov,Netwise,Computer software,-,-,-,-
+681,Microsoft,1995,Dec,Bruce Artwick Organization,Programming,-,-,-,-
+682,Microsoft,1996,Jan,Vermeer Technologies,Software,-,133000000,-,-
+683,Microsoft,1996,Mar,VGA-Animation Software Div,Software,-,-,-,-
+684,Microsoft,1996,Mar,Colusa Software,Software,-,-,-,-
+685,Microsoft,1996,Apr,Exos,Video game controllers,-,-,-,-
+686,Microsoft,1996,Apr,Aspect Software Engineering,Computer software,-,14150000,-,-
+687,Microsoft,1996,Jun,eShop Inc.,Software,-,50000000,-,-
+688,Microsoft,1996,Jun,Electric Gravity,Electronic games,-,-,-,-
+689,Microsoft,1996,Nov,Panorama Software Sys-On-Line,Software,-,-,-,-
+690,Microsoft,1997,Feb,NetCarta,Internet software,-,20000000,-,-
+691,Microsoft,1997,Mar,Interse,Internet software,-,-,-,-
+692,Microsoft,1997,Apr,WebTV Networks,Internet service provider,-,425000000,-,-
+693,Microsoft,1997,May,Dimension X,Java-based platforms,-,-,-,-
+694,Microsoft,1997,Jun,Cooper & Peters,Programming,-,-,-,-
+695,Microsoft,1997,Jun,LinkAge Software,Internet software development,-,-,-,-
+696,Microsoft,1997,Aug,VXtreme,Internet video software,-,-,-,-
+697,Microsoft,1997,Dec,Hotmail,Internet software,-,500000000,-,-
+698,Microsoft,1998,Feb,Flash Communications,Enterprise instant messaging software,-,-,-,-
+699,Microsoft,1998,Apr,Firefly,Relationship management software,-,40000000,-,-
+700,Microsoft,1998,Apr,MESA Group,Data sharing software,-,-,-,-
+701,Microsoft,1998,Aug,Valence Research,Internet software,-,-,-,-
+702,Microsoft,1998,Nov,LinkExchange,Internet advertising network,-,265000000,-,-
+703,Microsoft,1999,Jan,FASA Interactive,Video games,-,-,-,-
+704,Microsoft,1999,Mar,CompareNet,Shopping online,-,-,-,-
+705,Microsoft,1999,Mar,Numinous Technologies,Software,-,-,-,-
+706,Microsoft,1999,Apr,Access Software,Video games,-,-,-,-
+707,Microsoft,1999,Apr,Interactive Objects-Digital,Web music software,-,-,-,-
+708,Microsoft,1999,Apr,Jump Networks,Internet service provider,-,-,-,-
+709,Microsoft,1999,Jun,ShadowFactor Software,Wholesale computer software,-,-,-,-
+710,Microsoft,1999,Jun,Omnibrowse,Internet software,-,-,-,-
+711,Microsoft,1999,Jun,Intrinsa,Defect detection software,-,58900000,-,-
+712,Microsoft,1999,Jul,Sendit,Application software,-,125420000,-,-
+713,Microsoft,1999,Jul,Zoomit,Encryption software,-,-,-,-
+714,Microsoft,1999,Jul,STNC,Community software,-,-,-,-
+715,Microsoft,1999,Sep,Softway Systems,Computer programming,-,-,-,-
+716,Microsoft,1999,Oct,Entropic,Software,-,-,-,-
+717,Microsoft,2000,Jan,Visio Corporation,Wholesale drawing software,-,1375000000,-,-
+718,Microsoft,2000,Feb,Peach Networks,Digital TV services,-,-,-,-
+719,Microsoft,2000,Mar,Travelscape,Internet service provider,-,89750000,-,-
+720,Microsoft,2000,Apr,Titus Communications,Cable television,-,944800000,-,-
+721,Microsoft,2000,Jun,Bungie,Video games,-,-,-,-
+722,Microsoft,2000,Jul,NetGames,Software,-,-,-,-
+723,Microsoft,2000,Sep,MongoMusic,Online music search engine,-,65000000,-,-
+724,Microsoft,2000,Sep,Pacific Microsonics,Digital audio technology,-,-,-,-
+725,Microsoft,2000,Dec,Digital Anvil,Video games,-,-,-,-
+726,Microsoft,2001,Mar,Vacationspot,Internet service provider,-,70850000,-,-
+727,Microsoft,2001,Apr,Great Plains Software,Business management software,-,939884000,-,-
+728,Microsoft,2001,May,Intellisol International,Software,-,-,-,-
+729,Microsoft,2001,May,Ensemble Studios,Video games,-,-,-,-
+730,Microsoft,2001,May,NCompass Labs,Internet software,-,36000000,-,-
+731,Microsoft,2001,Jun,Maximal Innovative Intelligence,Software,-,20000000,-,-
+732,Microsoft,2001,Jul,Yupi,Online Spanish portal,-,-,-,-
+733,Microsoft,2002,Mar,Classic Custom Vacations,Travel agency,-,78000000,-,-
+734,Microsoft,2002,May,Sales Management Systems,Software,-,-,-,-
+735,Microsoft,2002,Jul,Navision,Software programming,-,1330000000,-,-
+736,Microsoft,2002,Jul,Mobilocity,Computer consulting,-,-,-,-
+737,Microsoft,2002,Sep,XDegrees,Security software,-,-,-,-
+738,Microsoft,2002,Sep,Rare,Video games,-,375000000,-,-
+739,Microsoft,2002,Dec,Vicinity,Online enterprise location,-,95849000,-,-
+740,Microsoft,2003,Feb,Connectix,Software,-,-,-,-
+741,Microsoft,2003,Mar,DCG,Internet software,-,-,-,-
+742,Microsoft,2003,Apr,PlaceWare,Web conferencing,-,200000000,-,-
+743,Microsoft,2003,May,G.A. Sullivan,Information technology,-,-,-,-
+744,Microsoft,2003,Jun,GeCAD Software,Antivirus technology,-,-,-,-
+745,Microsoft,2003,Aug,3DO Co-High Heat Baseball,Software,-,450000,-,-
+746,Microsoft,2004,Apr,Encore Bus Solutions-IP Asts,IP assets,-,-,-,-
+747,Microsoft,2004,Apr,ActiveViews,Reporting systems,-,-,-,-
+748,Microsoft,2004,Jul,Lookout Software,Personal search tool,-,-,-,-
+749,Microsoft,2004,Dec,GIANT Company Software,Anti-spyware,-,-,-,-
+750,Microsoft,2005,Mar,en'tegrate,Software,-,-,-,-
+751,Microsoft,2005,Apr,Groove Networks,Community software,-,-,-,-
+752,Microsoft,2005,May,MessageCast,Messaging,-,7000000,-,-
+753,Microsoft,2005,May,Tsinghua-Shenxun-Cert Asts,Certain assets,-,15000000,-,-
+754,Microsoft,2005,Jun,Sybari Software,Software,-,-,-,-
+755,Microsoft,2005,Aug,Teleo,VoIP,-,-,-,-
+756,Microsoft,2005,Aug,FrontBridge Technologies,Email protection,-,-,-,-
+757,Microsoft,2005,Sep,Alacris,Certificate management software,-,-,-,-
+758,Microsoft,2005,Nov,media-streams.com,Software,-,-,-,-
+759,Microsoft,2005,Nov,5th Finger,Mobile,-,3153000,-,-
+760,Microsoft,2006,Jan,UMT-Software and IP Assets,Software,-,-,-,-
+761,Microsoft,2006,Feb,MotionBridge,Search,-,17858000,-,-
+762,Microsoft,2006,Feb,Seadragon Software,Software,-,-,-,-
+763,Microsoft,2006,Mar,Apptimum,Software,-,-,-,-
+764,Microsoft,2006,Mar,Onfolio,Internet software,-,-,-,-
+765,Microsoft,2006,Apr,Lionhead Studios,Video games,-,-,-,-
+766,Microsoft,2006,Apr,AssetMetrix,Enterprise asset intelligence (SaaS),-,18000000,-,-
+767,Microsoft,2006,May,Massive Incorporated,Video game advertising,-,-,-,-
+768,Microsoft,2006,May,Vexcel,Mapping software,-,-,-,-
+769,Microsoft,2006,May,DeepMetrix,Web log analysis,-,-,-,-
+770,Microsoft,2006,Jun,ProClarity,Analysis software,-,-,-,-
+771,Microsoft,2006,Jun,iView Multimedia,Digital asset management,-,-,-,-
+772,Microsoft,2006,Jul,Softricity,Application virtualization software,-,-,-,-
+773,Microsoft,2006,Jul,Winternals Software,Software,-,-,-,-
+774,Microsoft,2006,Jul,Whale Communications,Applications,-,-,-,-
+775,Microsoft,2006,Sep,Gteko,Applications,-,-,-,-
+776,Microsoft,2006,Oct,DesktopStandard,Applications,-,-,-,-
+777,Microsoft,2006,Oct,Colloquis,Natural language software,-,-,-,-
+778,Microsoft,2007,Mar,Medstory,Internet search engine,-,-,-,-
+779,Microsoft,2007,Mar,devBiz Business Solutions,Software tools,-,-,-,-
+780,Microsoft,2007,May,ScreenTonic,Advertising and marketing,-,-,-,-
+781,Microsoft,2007,May,Tellme Networks,Mobile phone software,-,-,-,-
+782,Microsoft,2007,May,SoftArtisans,Business Intelligence software,-,-,-,-
+783,Microsoft,2007,Jun,Engyro,Information technology,-,-,-,-
+784,Microsoft,2007,Jun,Stratature,Master data management,-,-,-,-
+785,Microsoft,2007,Jun,Savvis Inc-Data Centers,Networking,-,200000000,-,-
+786,Microsoft,2007,Aug,AdECN,Ad Exchange,-,45000000,-,-
+787,Microsoft,2007,Aug,aQuantive,Digital marketing,-,6333000000,-,-
+788,Microsoft,2007,Oct,Jellyfish.com,Search engine,-,-,-,-
+789,Microsoft,2007,Oct,Parlano,Enterprise messaging software,-,-,-,-
+790,Microsoft,2007,Oct,Global Care Solutions-Assets,Assets,-,-,-,-
+791,Microsoft,2007,Nov,HOB Business Solutions,Information technology,-,-,-,-
+792,Microsoft,2007,Nov,Musiwave,Mobile music entertainment,-,-,-,-
+793,Microsoft,2007,Dec,Multimap.com,Mapping,-,-,-,-
+794,Microsoft,2008,Jan,Calista Technologies,Software,-,-,-,-
+795,Microsoft,2008,Feb,Caligari Corporation,Software,-,-,-,-
+796,Microsoft,2008,Feb,YaData,Software,-,-,-,-
+797,Microsoft,2008,Mar,Rapt,Advertising yield management software,-,-,-,-
+798,Microsoft,2008,Mar,Komoku,Rootkit security software,-,5000000,-,-
+799,Microsoft,2008,Mar,90 Degree Software,Business intelligence software,-,-,-,-
+800,Microsoft,2008,Apr,Farecast,Online search software,-,75000000,-,-
+801,Microsoft,2008,Apr,Danger,Mobile Internet software,-,500000000,-,-
+802,Microsoft,2008,Apr,Fast Search & Transfer,Enterprise search[clarification needed],-,1191000000,-,-
+803,Microsoft,2008,May,Kidaro,Software,-,-,-,-
+804,Microsoft,2008,Jun,Quadreon,Software,-,-,-,-
+805,Microsoft,2008,Jun,Navic Networks,Management software,-,-,-,-
+806,Microsoft,2008,Jun,Mobicomp,Mobile applications,-,-,-,-
+807,Microsoft,2008,Aug,Powerset,Semantic Search,-,-,-,-
+808,Microsoft,2008,Sep,DATAllegro,Data software,-,-,-,-
+809,Microsoft,2008,Sep,Greenfield Online,Search and e-commerce services,-,486000000,-,-
+810,Microsoft,2009,Mar,3DV Systems,"Developer of ZCam, a time-of-flight camera",-,35000000,-,-
+811,Microsoft,2009,May,BigPark,Video games interactive online gaming,-,-,-,-
+812,Microsoft,2009,Jun,Rosetta Biosoftware,Bioinformatics solutions for life science research,-,-,-,-
+813,Microsoft,2009,Sep,Interactive Supercomputing,Software,-,-,-,-
+814,Microsoft,2009,Dec,Opalis Software,Software,-,-,-,-
+815,Microsoft,2010,Feb,"Sentillion, Inc.",Software for the healthcare industry,-,-,-,-
+816,Microsoft,2010,Oct,"AVIcode, Inc.",.Net monitoring technology,-,-,-,-
+817,Microsoft,2010,Oct,"Canesta, Inc.",3D sensing technology,-,-,-,-
+818,Microsoft,2011,May,Skype Technologies,Telecommunications,-,8500000000,-,-
+819,Microsoft,2011,Jun,Prodiance,Software,-,-,-,-
+820,Microsoft,2011,Oct,Twisted Pixel Games,Video games,-,-,-,-
+821,Microsoft,2011,Nov,Videosurf,Video search,-,100000000,-,-
+822,Microsoft,2012,Jun,Press Play,Video games,-,-,-,-
+823,Microsoft,2012,Jun,Yammer,Social networking,-,1200000000,-,-
+824,Microsoft,2012,Jul,Perceptive Pixel,Multi touch hardware,-,-,-,-
+825,Microsoft,2012,Oct,PhoneFactor,Two-factor authentication system,-,-,-,-
+826,Microsoft,2012,Oct,StorSimple,Cloud-storage appliance vendor,-,-,-,-
+827,Microsoft,2012,Oct,MarketingPilot,Marketing automation firm,-,-,-,-
+828,Microsoft,2013,Jan,id8 Group R2 Studios,Home automation,-,-,-,-
+829,Microsoft,2013,Feb,Pando Networks,Peer-to-peer (P2P) media distribution,-,-,-,-
+830,Microsoft,2013,Mar,MetricsHub,Cloud monitoring,-,-,-,-
+831,Microsoft,2013,Mar,Netbreeze,Social analytics,-,-,-,-
+832,Microsoft,2013,Jun,InRelease,Release management,-,-,-,-
+833,Microsoft,2013,Sep,Nokia mobile phones unit,"Mobile phones, smartphones",-,7200000000,-,-
+834,Microsoft,2013,Oct,HLW Software,RDP applications,-,-,-,-
+835,Microsoft,2013,Oct,Apiphany,API management,-,-,-,-
+836,Microsoft,2014,Jan,Parature,Customer service software,-,100000000,-,-
+837,Microsoft,2014,May,GreenButton,Cloud computing,-,-,-,-
+838,Microsoft,2014,May,Capptain,(Mobile) application development,-,-,-,-
+839,Microsoft,2014,Jul,SyntaxTree,Developer tools,-,-,-,-
+840,Microsoft,2014,Jul,InMage,Disaster recovery solutions,-,-,-,-
+841,Microsoft,2014,Aug,Inception Mobile Inc.,Software,-,-,-,-
+842,Microsoft,2014,Nov,Mojang,Video games,-,2500000000,-,-
+843,Microsoft,2014,Nov,Aorato,Enterprise security & machine learning,-,-,-,-
+844,Microsoft,2014,Dec,Acompli,Mobile email apps,-,-,-,-
+845,Microsoft,2014,Dec,HockeyApp,Mobile beta distribution & crash analytics,-,-,-,-
+846,Microsoft,2015,Jan,Equivio,Text analytics service,-,-,-,-
+847,Microsoft,2015,Jan,Revolution Analytics,Statistical computing and predictive analytics,-,-,-,-
+848,Microsoft,2015,Feb,"Sunrise Atelier, Inc.",Sunrise Calendar applications,-,100000000,-,-
+849,Microsoft,2015,Feb,N-trig,Styli and pen input hardware and software,-,200000000,-,-
+850,Microsoft,2015,Mar,LiveLoop,PowerPoint collaboration,-,-,-,-
+851,Microsoft,2015,Apr,"Datazen Software, Inc.",Mobile business intelligence & data visualization,-,-,-,-
+852,Microsoft,2015,Jun,6 Wunderkinder GmbH,Wunderlist to-do list applications,-,-,-,-
+853,Microsoft,2015,Jun,BlueStripe Software,Application management,-,-,-,-
+854,Microsoft,2015,Jul,FieldOne Systems LLC,Enterprise field service,-,-,-,-
+855,Microsoft,2015,Jul,Adallom,Cloud security,-,320000000,-,-
+856,Microsoft,2015,Aug,"Incent Games, LLC",Sales-gamification,-,-,-,-
+857,Microsoft,2015,Sep,"VoloMetrix, Inc.",Organisational analytics,-,-,-,-
+858,Microsoft,2015,Sep,"Double Labs, Inc.",Mobile lock screen software,-,-,-,-
+859,Microsoft,2015,Sep,Adxstudio Inc.,Web portal and application lifecycle management solutions,-,-,-,-
+860,Microsoft,2015,Oct,Havok,Video game physics engine,-,-,-,-
+861,Microsoft,2015,Nov,"Mobile Data Labs, Inc.","MileIQ, a mileage tracking application",-,-,-,-
+862,Microsoft,2015,Nov,Secure Islands Technologies Ltd.,Data protection,-,-,-,-
+863,Microsoft,2015,Dec,Metanautix,Big data analytics,-,-,-,-
+864,Microsoft,2015,Dec,"Talko, Inc.",Mobile communications,-,-,-,-
+865,Microsoft,2016,Jan,Teacher Gaming LLC,Education software,-,-,-,-
+866,Microsoft,2016,Feb,SwiftKey,Virtual keyboard,-,250000000,-,-
+867,Microsoft,2016,Feb,Groove,Music discovery,-,-,-,-
+868,Microsoft,2016,Feb,Xamarin,Mobile application development,-,-,-,-
+869,Microsoft,2016,May,Solair,Internet of Things platform,-,-,-,-
+870,Microsoft,2016,Jun,Wand Labs,Conversation as a service,-,-,-,-
+871,Microsoft,2016,Aug,Beam,Video game streaming,-,-,-,-
+872,Microsoft,2016,Aug,Genee,AI-powered scheduling assistant service,-,-,-,-
+873,Microsoft,2016,Dec,LinkedIn,Professional social network,-,26200000000,-,-
+874,Microsoft,2017,Jan,Maluuba,Artificial intelligence,-,-,-,-
+875,Microsoft,2017,Jan,Simplygon,3D graphics optimization,-,-,-,-
+876,Microsoft,2017,Apr,Deis,Container management,-,-,-,-
+877,Microsoft,2017,Apr,Intentional Software,Intentional programming,-,-,-,-
+878,Microsoft,2017,Jun,Hexadite,Cybersecurity,-,100000000,-,-
+879,Microsoft,2017,Jun,Cloudyn,Cloud business management,-,50000000,-,-
+880,Microsoft,2017,Aug,Cycle Computing,Cloud HPC,-,-,-,-
+881,Microsoft,2017,Oct,AltspaceVR,Virtual reality,-,-,-,-
+882,Microsoft,2017,Nov,SWNG,Cinemagraphic photo app,-,-,-,-
+883,Microsoft,2018,Jan,Avere Systems,Data management,-,-,-,-
+884,Microsoft,2018,Jan,Playfab,Gaming backend service,-,-,-,-
+885,Microsoft,2018,May,Semantic Machines,Conversational AI,-,400000000,-,-
+886,Microsoft,2018,Jun,Ninja Theory,Video games,-,-,-,-
+887,Microsoft,2018,Jun,Undead Labs,Video games,-,-,-,-
+888,Microsoft,2018,Jun,Compulsion Games,Video games,-,-,-,-
+889,Microsoft,2018,Jun,Playground Games,Video games,-,-,-,-
+890,Microsoft,2018,Jun,Flipgrid,"Education, video discussion platform",-,-,-,-
+891,Microsoft,2018,Jun,Bonsai,Industrial AI platform,-,-,-,-
+892,Microsoft,2018,Sep,Lobe,Artificial intelligence,-,-,-,-
+893,Microsoft,2018,Oct,Glint,Employee engagement,-,400000000,-,-
+894,Microsoft,2018,Oct,GitHub,Software development and version control platform,-,7500000000,-,-
+895,Microsoft,2018,Nov,inXile Entertainment,Video games,-,-,-,-
+896,Microsoft,2018,Nov,Obsidian Entertainment,Video games,-,-,-,-
+897,Microsoft,2018,Nov,XOXCO,Conversational AI,-,-,-,-
+898,Microsoft,2018,Nov,FSLogix,Application provisioning and virtualization,-,-,-,-
+899,Microsoft,2018,Nov,Spectrum,Social networks for design and development,-,-,-,-
+900,Microsoft,2019,Jan,Citus Data,Database management,-,-,-,-
+901,Microsoft,2019,Feb,DataSense,Database management,-,-,-,-
+902,Microsoft,2019,Apr,Express Logic,Real-time operating systems,-,-,-,-
+903,Microsoft,2019,Jun,Double Fine Productions,Video games,-,-,-,-
+904,Microsoft,2019,Jul,BlueTalon,Data privacy and governance service,-,-,-,-
+905,Microsoft,2019,Aug,PromoteIQ,Retail e-commerce improvement,-,-,-,-
+906,Microsoft,2019,Aug,jClarity,Java software optimization,-,-,-,-
+907,Microsoft,2019,Sep,Movere,Cloud migration,-,-,-,-
+908,Microsoft,2019,Oct,Mover,File migration,-,-,-,-
+909,Microsoft,2020,Mar,Affirmed Networks,5G Networking,-,1350000000,-,-
+910,Microsoft,2020,May,Metaswitch Networks,5G Networking,-,-,-,-
+911,Microsoft,2020,May,Softomotive,Robotic Process Automation,-,-,-,-
+912,Microsoft,2020,Jun,ADRM Software,data modeling startup,-,-,-,-
+913,Microsoft,2020,Jun,CyberX,IoT/OT Security,-,165000000,-,-
+914,Microsoft,2020,Jul,Orions Systems,Dynamics 365 - SMart vision,-,-,-,-
+915,Microsoft,2020,Sep,ZeniMax Media,Video games,-,8100000000,-,-
+916,Microsoft,2020,Dec,Smash.gg,Esports,-,-,-,-
+917,Microsoft,2021,Mar,The Marsden Group,Tech in complex industrial environments,-,-,-,-
+918,Microsoft,2021,Apr,Nuance Communications,Speech synthesis and speech recognition,-,19700000000,-,-
+919,Microsoft,2021,Jun,ReFirm Labs,IoT security and embedded devices,-,-,-,-
+920,Microsoft,2021,Jun,AT&T Technology Network Cloud,5G Networking,-,-,-,-
+921,Microsoft,2021,Jul,RiskIQ,Cybersecurity ransomware,-,500000000,-,-
+922,Microsoft,2021,Jul,CloudKnox,Cloud infrastructure entitlement management security,-,-,-,-
+923,Microsoft,2021,Jul,Suplari,Software,-,-,-,-
+924,Microsoft,2021,Aug,Peer5,Peer 2 Peer Network Technology,-,-,-,-
+925,Microsoft,2021,Sep,Clipchamp,Video-editing software,-,-,-,-
+926,Microsoft,2021,Sep,TakeLessons,Education,-,-,-,-
+927,Microsoft,2021,Oct,Ally.io,Productivity,-,-,-,-
+928,Blackberry,2001,Nov,Plazmic Inc.,Software,-,undisclosed,-,-
+929,Blackberry,2002,Aug,TeamOn Systes Inc.,Software provider,-,undisclosed,-,-
+930,Blackberry,2005,Feb,Nextair Inc.,Mobile app design studio and apps,-,undisclosed,-,-
+931,Blackberry,2006,Mar,Ascendent Systems,Enterprise voice mobility solutions,-,undisclosed,-,-
+932,Blackberry,2006,Jun,Slipstream Data Inc.,Data compression,-,undisclosed,-,-
+933,Blackberry,2006,Nov,Epoch Integration,Wireless network firm,-,undisclosed,-,-
+934,Blackberry,2009,Jan,Certicom,Cryptography,-,undisclosed,-,-
+935,Blackberry,2009,Jan,Chalk Media,Software,-,23125000,-,-
+936,Blackberry,2009,Feb,Alt-N Technologies,Mail transfer agent,-,undisclosed,-,-
+937,Blackberry,2009,Jun,Dash Navigation,Car navigation systems,-,undisclosed,-,-
+938,Blackberry,2009,Aug,Torch Mobile,WebKit mobile browser,-,undisclosed,-,-
+939,Blackberry,2010,Mar,Viigo,News / data aggregation,-,undisclosed,-,-
+940,Blackberry,2010,Apr,QNX Software Systems,Unix-like OS,-,200000000,-,-
+941,Blackberry,2010,Aug,Cellmania,App store software maker,-,undisclosed,-,-
+942,Blackberry,2010,Sep,Documents To Go and other assets,Office suite,-,50000000,-,-
+943,Blackberry,2010,Dec,The Astonishing Tribe,Interface wizards,-,150000000,-,-
+944,Blackberry,2011,Feb,Gist,Professional contact manager,-,undisclosed,-,-
+945,Blackberry,2011,Mar,tinyHippos,Mobile web development,-,undisclosed,-,-
+946,Blackberry,2011,Apr,Tungle.me,Social calendaring,-,undisclosed,-,-
+947,Blackberry,2011,Jun,Scoreloop,Social gaming,-,71000000,-,-
+948,Blackberry,2011,May,Ubitexx,Mobile device management,-,undisclosed,-,-
+949,Blackberry,2011,Jul,Jaycut,Video editing,-,undisclosed,-,-
+950,Blackberry,2011,Oct,NewBay,Content provider,-,100000000,-,-
+951,Blackberry,2012,Mar,Paratek,RF multi-band handsets,-,undisclosed,-,-
+952,Blackberry,2013,May,Scroon,Social marketing company,-,undisclosed,-,-
+953,Blackberry,2014,Jul,Secusmart GmbH,Voice and data encryption,-,undisclosed,-,-
+954,Blackberry,2014,Sep,Movirtu,Virtual SIM solutions,-,undisclosed,-,-
+955,Blackberry,2015,Apr,WatchDox Ltd.,Enterprise data sync and share,-,undisclosed,-,-
+956,Blackberry,2015,Jul,"AtHoc, Inc.",Networked crisis communications,-,undisclosed,-,-
+957,Blackberry,2015,Aug,Good Technology,Mobile security provider,-,425000000,-,-
+958,Blackberry,2016,Feb,Encription Ltd.,Cybersecurity services,-,undisclosed,-,-
+959,Blackberry,2018,Nov,Cylance Inc.,Security firm,-,1400000000,-,-
+960,Ebay,1998,Jul,Up4Sale.com,Online auction,-,-,-,-
+961,Ebay,1999,Apr,Butterfield & Butterfield,Auction house,-,260000000,-,-
+962,Ebay,1999,May,Billpoint,E-commerce payment systems,-,-,-,-
+963,Ebay,1999,May,Kruse International,Car auctions,-,-,-,-
+964,Ebay,1999,Jun,Alando,Auction house,-,43000000,-,-
+965,Ebay,1999,Oct,Blackthorne,Listing tool,-,-,-,-
+966,Ebay,2000,Jun,Half.com,Online marketplace,-,318000000,-,-
+967,Ebay,2000,Dec,Precision Buying Service,E-commerce payment systems,-,-,-,-
+968,Ebay,2001,Jan,Internet Auction Co.,Online auction,-,120000000,-,-
+969,Ebay,2001,Mar,iBazar,Online auction,-,93000000,-,-
+970,Ebay,2002,Jul,PayPal,E-commerce payment systems,-,1500000000,-,-
+971,Ebay,2003,Jan,CARad.com,Online auction,-,-,-,-
+972,Ebay,2003,Jul,EachNet,Electronic commerce,-,150000000,-,-
+973,Ebay,2004,Jan,mobile.de,Vehicles classifieds,-,152000000,-,-
+974,Ebay,2004,Jun,Baazee.com,Online auction,-,50000000,-,-
+975,Ebay,2004,Aug,Craigslist,Classified advertising,-,13500000,-,-
+976,Ebay,2004,Nov,Marktplaats.nl,Classified advertising,-,290000000,-,-
+977,Ebay,2004,Dec,Rent.com,Classified advertising,-,415000000,-,-
+978,Ebay,2005,May,Loquo,Classified advertising,-,-,-,-
+979,Ebay,2005,May,Gumtree,Classified advertising,-,-,-,-
+980,Ebay,2005,Jun,Shopping.com,Price comparison service,-,620000000,-,-
+981,Ebay,2005,Jun,OpusForum.org,Classified advertising,-,-,-,-
+982,Ebay,2005,Sep,Skype Limited,Software for voice & video calls,-,2600000000,-,-
+983,Ebay,2006,Apr,Tradera,Online auction,-,48000000,-,-
+984,Ebay,2007,May,StumbleUpon,Browser plugin,-,75000000,-,-
+985,Ebay,2007,Jan,StubHub,Electronic commerce,-,310000000,-,-
+986,Ebay,2007,May,GittiGidiyor,Electronic commerce,-,217500000,-,-
+987,Ebay,2006,Mar,Meetup.com,Social network service,-,10000000,-,-
+988,Ebay,2008,Jan,Fraud Sciences,Online risk management,-,169000000,-,-
+989,Ebay,2008,Oct,Bill Me Later,Electronic commerce,-,1200000000,-,-
+990,Ebay,2008,Oct,dba.dk & bilbasen.dk,Classified advertising,-,390000000,-,-
+991,Ebay,2009,Jan,Positronic Inc.,Machine learning,-,-,-,-
+992,Ebay,2009,Apr,G-Market,Electronic commerce,-,1200000000,-,-
+993,Ebay,2010,Mar,Magento,Electronic commerce,-,225000000,-,-
+994,Ebay,2010,Jun,RedLaser,Mobile applications,-,10000000,-,-
+995,Ebay,2010,Dec,Milo.com,Shopping engine,-,75000000,-,-
+996,Ebay,2010,Dec,brands4friends,Electronic commerce,-,200000000,-,-
+997,Ebay,2011,Mar,GSI Commerce,Marketing/fulfillment,-,2400000000,-,-
+998,Ebay,2011,Mar,"Where, Inc.",Local search and recommendation,-,135000000,-,-
+999,Ebay,2011,May,MissionFish,Nonprofit fundraising,-,-,-,-
+1000,Ebay,2011,Jun,alaMaula,Online classifieds,-,-,-,-
+1001,Ebay,2011,Jul,Zong,Payments through mobile carrier billing,-,240000000,-,-
+1002,Ebay,2011,Sep,The Gifts Project,Group purchasing of gifts,-,50000000,-,-
+1003,Ebay,2011,Dec,Zvents,Local event listings,-,-,-,-
+1004,Ebay,2011,Dec,BillSAFE,Billing technology,-,-,-,-
+1005,Ebay,2012,Sep,Svpply,Social shopping,-,-,-,-
+1006,Ebay,2013,Jul,2dehands.be and 2ememain.be,Classified advertising,-,-,-,-
+1007,Ebay,2013,Sep,Decide.com,Price forecasting,-,-,-,-
+1008,Ebay,2013,Sep,Braintree,Payments,-,800000000,-,-
+1009,Ebay,2013,Sep,Bureau of Trade,Content / commerce,-,-,-,-
+1010,Ebay,2013,Oct,Shutl,Rapid fulfillment service,-,-,-,-
+1011,Ebay,2014,Feb,PhiSix Fashion Labs,Virtual clothing,-,-,-,-
+1012,Ebay,2015,Jan,Vivanuncios,Online classifieds,-,-,-,-
+1013,Ebay,2015,Jul,Twice,Secondhand clothing retailer,-,-,-,-
+1014,Ebay,2016,Mar,Cargigi,Inventory management,-,-,-,-
+1015,Ebay,2016,May,ExpertMaker,Machine learning,-,-,-,-
+1016,Ebay,2016,May,Ticketbis,Online ticket marketplace,-,-,-,-
+1017,Ebay,2016,Jul,SalesPredict,Online commerce,-,-,-,-
+1018,Ebay,2016,Oct,Corrigon,Image recognition,-,-,-,-
+1019,Ebay,2017,Aug,Flipkart,Online commerce,-,-,-,-
+1020,Ebay,2017,Dec,Terapeak,Data tools,-,-,-,-
+1021,Ebay,2018,Oct,Motors.co.uk,Online commerce,-,-,-,-
+1022,Ebay,2020,May,"CarsGuide, Autoscout",Online commerce,-,-,-,-
+1023,Ibm,2001,Jun,Mainspring,Business strategy consulting,United States,80000000,-,-
+1024,Ibm,2001,Jul,Informix Corporation,Database software,United States,1000000000,-,-
+1025,Ibm,2002,Jan,"CrossWorlds Software, Inc.",Software,United States,129000000,-,-
+1026,Ibm,2002,Jun,Metamerge,Identity management,Norway,-,-,-
+1027,Ibm,2002,Aug,"Trellisoft, Inc.",Enterprise storage,United States,-,-,-
+1028,Ibm,2002,Sep,"Holosofx, Inc.",Business Process Management,United States,-,-,-
+1029,Ibm,2002,Oct,PWC Consulting from PricewaterhouseCoopers,Business Consulting and Technology Services,United States,3500000000,-,-
+1030,Ibm,2002,Oct,Access360,Software,United States,-,-,-
+1031,Ibm,2002,Oct,EADS Matra Datavision,Product lifecycle management,United States,-,-,-
+1032,Ibm,2002,Nov,Tarian Software,Records Management,Canada,-,-,-
+1033,Ibm,2003,Feb,Rational Software Corporation,Software Development,United States,2100000000,-,-
+1034,Ibm,2003,May,Think Dynamics,Software,Canada,-,-,-
+1035,Ibm,2003,Jul,Information Laboratory,Software,United States,-,-,-
+1036,Ibm,2003,Jul,Aptrix,Software,Australia,-,-,-
+1037,Ibm,2003,Oct,CrossAccess Corporation,Enterprise Information Integration,United States,-,-,-
+1038,Ibm,2003,Nov,"Productivity Solutions, Inc.",Automated Self-Checkout Systems,United States,-,-,-
+1039,Ibm,2003,Dec,"Green Pasture Software, Inc.",Content management software,United States,-,-,-
+1040,Ibm,2004,Apr,Trigo Technologies,Product information management,United States,-,-,-
+1041,Ibm,2004,Apr,Daksh e-Services,BPO Services,India,170000000,-,-
+1042,Ibm,2004,Apr,Business Continuity Services unit of Schlumberger,IT Services,France,-,-,-
+1043,Ibm,2004,Jun,Candle Corporation,Infrastructure management,United States,-,-,-
+1044,Ibm,2004,Jul,Alphablox Corporation,Business Intelligence,United States,-,-,-
+1045,Ibm,2004,Jul,Cyanea Systems,Application management software,United States,-,-,-
+1046,Ibm,2004,Oct,Venetica,Enterprise Information Integration,United States,-,-,-
+1047,Ibm,2004,Nov,Systemcorp ALG Ltd.,Project Portfolio Management (PPM) software,Canada,-,-,-
+1048,Ibm,2004,Nov,Liberty Insurance Services,Business process services,United States,-,-,-
+1049,Ibm,2004,Dec,Maersk Data and DMdata from Maersk,IT Services,Denmark,-,-,-
+1050,Ibm,2004,Dec,KeyMRO,Procurement Services,France,-,-,-
+1051,Ibm,2005,Jan,Systems Research & Development,Identity management,United States,-,-,-
+1052,Ibm,2005,Mar,Corio,Application Services,United States,182000000,-,-
+1053,Ibm,2005,Apr,Ascential Software Corporation,Enterprise Information Integration,United States,1100000000,-,-
+1054,Ibm,2005,May,Gluecode Software,Application Server,United States,-,-,-
+1055,Ibm,2005,Jun,Meiosys,Application Management,United States,-,-,-
+1056,Ibm,2005,Jul,"PureEdge Solutions, Inc.",Electronic Forms,Canada,-,-,-
+1057,Ibm,2005,Jul,Isogon Corporation,Asset Management,United States,-,-,-
+1058,Ibm,2005,Aug,DWL,Enterprise Information Integration,United States,-,-,-
+1059,Ibm,2005,Oct,"DataPower Technology, Inc.",Service Oriented Architecture (SOA),United States,-,-,-
+1060,Ibm,2005,Nov,"iPhrase Systems, Inc.",Information management software,United States,-,-,-
+1061,Ibm,2005,Nov,Network Solutions Pvt Ltd,IT Services,India,-,-,-
+1062,Ibm,2005,Nov,"Collation, Inc.",Network management,United States,-,-,-
+1063,Ibm,2005,Dec,"Bowstreet, Inc.",Portal-based tools,United States,-,-,-
+1064,Ibm,2006,Jan,ARGUS Semiconductor Software From INFICON,Semiconductor Manufacturing software,United States,-,-,-
+1065,Ibm,2006,Jan,"CIMS Lab, Inc.",IT Financial Management,United States,-,-,-
+1066,Ibm,2006,Feb,"Viacore, Inc.",Supply chain optimization,United States,-,-,-
+1067,Ibm,2006,Feb,"Micromuse, Inc.",Network management,United States,865000000,-,-
+1068,Ibm,2006,Mar,Language Analysis Systems,Identity management,United States,-,-,-
+1069,Ibm,2006,May,"BuildForge, Inc.",Software Development,United States,-,-,-
+1070,Ibm,2006,May,"Unicorn Solutions, Inc.",Metadata management,United States,-,-,-
+1071,Ibm,2006,Jun,Rembo Technology,Installation Software,Switzerland,-,-,-
+1072,Ibm,2006,Aug,"Webify Solutions, Inc",Service Oriented Architecture software,United States,-,-,-
+1073,Ibm,2006,Sep,Global Value Solutions,IT Services,Brazil,-,-,-
+1074,Ibm,2006,Oct,DORANA product line from Ubiquity Pty Limited,Asset Management,Australia,-,-,-
+1075,Ibm,2006,Oct,MRO Software,Asset Management,United States,740000000,-,-
+1076,Ibm,2006,Oct,FileNet Corporation,Content management software,United States,1600000000,-,-
+1077,Ibm,2006,Oct,Internet Security Systems (ISS),Information security,United States,1300000000,-,-
+1078,Ibm,2006,Oct,Palisades Technology Partners,Management consulting,United States,-,-,-
+1079,Ibm,2007,Jan,"Consul Risk Management, Inc.",Information security,Netherlands,-,-,-
+1080,Ibm,2007,Feb,Vallent Corporation,Telecommunications Management,United States,-,-,-
+1081,Ibm,2007,Mar,Softek Storage Solutions Corporation,Data Mobility,United States,-,-,-
+1082,Ibm,2007,Mar,"BlackDot Networks, Inc.",Enterprise Data Consulting,United States,-,-,-
+1083,Ibm,2007,Apr,Unicible,IT Services,Switzerland,460000000,-,-
+1084,Ibm,2007,Jul,Watchfire Corporation,Security Software Testing,United States,-,-,-
+1085,Ibm,2007,Aug,WebDialogs,Web conferencing and communications,United States,-,-,-
+1086,Ibm,2007,Aug,DataMirror Corporation,Change Data Capture,Canada,161000000,-,-
+1087,Ibm,2007,Sep,"Qinnova, Inc.",Internet Protocol Television (IPTV),Canada,-,-,-
+1088,Ibm,2007,Sep,"Princeton Softech, Inc.",Business Intelligence,United States,-,-,-
+1089,Ibm,2007,Oct,NovusCG,Storage Consulting and Technology Services,United States,-,-,-
+1090,Ibm,2008,Jan,XIV,Enterprise storage,Israel,300000000,-,-
+1091,Ibm,2008,Jan,AptSoft Corporation,Business Intelligence,United States,-,-,-
+1092,Ibm,2008,Jan,Solid Information Technology,Database software,United States,-,-,-
+1093,Ibm,2008,Jan,Cognos,Business Intelligence,Canada,5000000000,-,-
+1094,Ibm,2008,Jan,Arsenal Digital Solutions,Data backup services,United States,-,-,-
+1095,Ibm,2008,Feb,Net Integration Technologies Inc.,Business Server Software,Canada,-,-,-
+1096,Ibm,2008,Mar,"Encentuate, Inc.",Enterprise Single Sign-On,United States,-,-,-
+1097,Ibm,2008,Apr,Telelogic AB,Enterprise software development,Sweden,845000000,-,-
+1098,Ibm,2008,Apr,Diligent Technologies,Data De-duplication,United States,200000000,-,-
+1099,Ibm,2008,Apr,FilesX,Application Recovery Software,United States,-,-,-
+1100,Ibm,2008,Apr,InfoDyne Corporation,Data Feed Connectors,United States,-,-,-
+1101,Ibm,2008,Jul,Platform Solutions,"Mainframe, System Z technologies",United States,-,-,-
+1102,Ibm,2008,Jul,ILOG,Business Rules Management Systems,France,340000000,-,-
+1103,Ibm,2008,Nov,Transitive Corporation,Virtualization Software,United States,-,-,-
+1104,Ibm,2009,Jan,Outblaze's E-Mail Service Assets,Online messaging and collaboration,Hong Kong,-,-,-
+1105,Ibm,2009,May,Exeros Assets,Data Discovery Software,United States,-,-,-
+1106,Ibm,2009,Jul,SPSS Inc.,Statistical analysis software,United States,1200000000,-,-
+1107,Ibm,2009,Jul,Ounce Labs,Source code analysis,United States,-,-,-
+1108,Ibm,2009,Sep,RedPill Solutions,Analytics and Optimisation,Singapore,-,-,-
+1109,Ibm,2009,Nov,Guardium,Database monitoring and protection,United States,-,-,-
+1110,Ibm,2009,Dec,Lombardi,Business Process Management,United States,-,-,-
+1111,Ibm,2010,Jan,"National Interest Security Company, LLC",Public sector consulting,United States,-,-,-
+1112,Ibm,2010,Feb,Initiate Systems,Data integrity software,United States,-,-,-
+1113,Ibm,2010,Feb,Intelliden Inc.,Network Automation software,United States,-,-,-
+1114,Ibm,2010,Mar,Wilshire Credit Corporation Assets,Mortgage Business Processing Services,United States,-,-,-
+1115,Ibm,2010,May,Cast Iron Systems,Cloud Integration,United States,190000000,-,-
+1116,Ibm,2010,May,Sterling Commerce,Business software integration,United States,1400000000,-,-
+1117,Ibm,2010,Jun,Coremetrics,Web Analytics,United States,-,-,-
+1118,Ibm,2010,Jul,"BigFix, Inc.",Security and IT automation software,United States,-,-,-
+1119,Ibm,2010,Jul,Storwize,Data Compression,United States,140000000,-,-
+1120,Ibm,2010,Aug,Datacap,Data capture and Content Management,United States,-,-,-
+1121,Ibm,2010,Aug,Unica Corporation,Marketing planning software,United States,480000000,-,-
+1122,Ibm,2010,Sep,OpenPages,Integrated risk management solutions,United States,-,-,-
+1123,Ibm,2010,Sep,Netezza,Data warehousing and analytics,United States,1700000000,-,-
+1124,Ibm,2010,Sep,BLADE Network Technologies,Networking,United States,-,-,-
+1125,Ibm,2010,Oct,PSS Systems,Legal risk management,United States,-,-,-
+1126,Ibm,2010,Oct,Clarity Systems,Financial governance,Canada,350000000,-,-
+1127,Ibm,2011,Mar,Tririga Inc.,Facility and Real Estate Management,United States,-,-,-
+1128,Ibm,2011,Aug,i2 Limited,Intelligence Analytics,United Kingdom,-,-,-
+1129,Ibm,2011,Sep,Algorithmics Inc.,Risk Management,Canada,387000000,-,-
+1130,Ibm,2011,Oct,Q1 Labs,Security Intelligence,United States,-,-,-
+1131,Ibm,2011,Oct,Platform Computing,Cluster and Grid Management Software,Canada,-,-,-
+1132,Ibm,2011,Dec,Cúram Software,Smarter Cities,Ireland,-,-,-
+1133,Ibm,2011,Dec,DemandTec,Cloud-based Retail Analytics,United States,440000000,-,-
+1134,Ibm,2011,Dec,Emptoris,Supply Chain Analytics,United States,-,-,-
+1135,Ibm,2012,Jan,Green Hat (software company),Cloud based software testing,United States,-,-,-
+1136,Ibm,2012,Jan,Worklight,Software Development Firm,Israel,70000000,-,-
+1137,Ibm,2012,Apr,Varicent,Compensation and Sales Performance Management Software Solutions,Canada,-,-,-
+1138,Ibm,2012,Apr,Vivisimo,Enterprise Search Software,United States,-,-,-
+1139,Ibm,2012,May,Tealeaf Technology,Customer Experience Analytics Software,United States,-,-,-
+1140,Ibm,2012,Aug,Texas Memory Systems,Solid State Storage,United States,-,-,-
+1141,Ibm,2012,Aug,Kenexa Corporation,Human Capital Solutions,United States,1400000000,-,-
+1142,Ibm,2012,Sep,Butterfly Software Ltd.,Data Analysis and Migration Software,United Kingdom,-,-,-
+1143,Ibm,2012,Dec,StoredIQ,Big Data Analysis,United States,-,-,-
+1144,Ibm,2013,Feb,Star Analytics,Business Analytics,United States,-,-,-
+1145,Ibm,2013,Apr,UrbanCode,Software delivery automation,United States,-,-,-
+1146,Ibm,2013,Jun,SoftLayer Technologies,Cloud Computing Infrastructure,United States,2000000000,-,-
+1147,Ibm,2013,Jul,CSL International,Cloud Computing,Israel,undisclosed,-,-
+1148,Ibm,2013,Aug,Trusteer,Cyber Security,Israel,1000000000,-,-
+1149,Ibm,2013,Sep,Daeja Image Systems,Viewer for document management systems,United Kingdom,undisclosed,-,-
+1150,Ibm,2013,Oct,The Now Factory,Mobile Networks Big Data Analytics,Ireland,undisclosed,-,-
+1151,Ibm,2013,Oct,Xtify,In-app mobile messaging and push notification tools,United States,undisclosed,-,-
+1152,Ibm,2013,Nov,Fiberlink Communications,Mobile Device Management,United States,330000000,-,-
+1153,Ibm,2013,Dec,"Aspera, Inc.",Data Transfer Technology,United States,undisclosed,-,-
+1154,Ibm,2014,Feb,"Cloudant, Inc.",Database-as-a-Service,United States,undisclosed,-,-
+1155,Ibm,2014,Apr,"Silverpop Systems, Inc.",Behavioral Marketing Automation,United States,undisclosed,-,-
+1156,Ibm,2014,May,Cognea,Cognitive computing (conversational artificial intelligence platform),United States,undisclosed,-,-
+1157,Ibm,2014,Jul,CrossIdeas,Cloud Security (Identity and Access Governance),Italy,undisclosed,-,-
+1158,Ibm,2014,Aug,Lighthouse Security Group,Cloud Security,United States,undisclosed,-,-
+1159,Ibm,2015,Mar,AlchemyAPI,"Natural language processing, big data",United States,undisclosed,-,-
+1160,Ibm,2015,Mar,Blekko,"Web Search Engine, Cognitive Computing",United States,undisclosed,-,-
+1161,Ibm,2015,Apr,Explorys,Healthcare analytics,United States,undisclosed,-,-
+1162,Ibm,2015,Apr,Phytel,Health management software,United States,undisclosed,-,-
+1163,Ibm,2015,Jun,Bluebox,Private Cloud as a Service,United States,undisclosed,-,-
+1164,Ibm,2015,Jul,Compose Inc.,Database as a Service,United States,undisclosed,-,-
+1165,Ibm,2015,Aug,Merge Healthcare Inc.,Healthcare imaging software,United States,1000000000,-,-
+1166,Ibm,2015,Sep,StrongLoop Inc.,Mobile API capabilities,United States,undisclosed,-,-
+1167,Ibm,2015,Sep,Meteorix LLC,Consulting services for Workday applications,United States,undisclosed,-,-
+1168,Ibm,2015,Oct,The Weather Company digital assets,"Weather data sources and analytics, related online and mobile products",United States,undisclosed,-,-
+1169,Ibm,2015,Nov,"Gravitant, Inc",Cloud brokerage software and cloud management,United States,undisclosed,-,-
+1170,Ibm,2015,Nov,Cleversafe,Object-based storage software,United States,1309000000,-,-
+1171,Ibm,2015,Dec,Clearleap,Cloud-based video management,United States,undisclosed,-,-
+1172,Ibm,2016,Jan,Iris Analytics,Real time transaction fraud detection,Germany,undisclosed,-,-
+1173,Ibm,2016,Jan,Ustream,Streaming video,United States,undisclosed,-,-
+1174,Ibm,2016,Jan,Resource/Ammirati,Digital marketing and creative agency,United States,undisclosed,-,-
+1175,Ibm,2016,Feb,Aperto AG,Digital marketing and creative agency,Germany,undisclosed,-,-
+1176,Ibm,2016,Feb,ecx.io AG,Digital marketing and creative agency,Germany,undisclosed,-,-
+1177,Ibm,2016,Feb,Truven Health Analytics,"Provider of cloud-based healthcare data, analytics and insights",United States,2600000000,-,-
+1178,Ibm,2016,Feb,Resilient Systems,"Cyber security, incident response platform",United States,undisclosed,-,-
+1179,Ibm,2016,Mar,Optevia,Specialist provider of Microsoft Dynamics CRM based solutions and associated services to the public sector,United Kingdom,undisclosed,-,-
+1180,Ibm,2016,Mar,Blue Wolf Group LLC,Salesforce systems integrator and professional services,United States,200000000,-,-
+1181,Ibm,2016,Jun,EZSource,Application discovery and dashboard visualization,Israel,undisclosed,-,-
+1182,Ibm,2016,Sep,Promontory Financial Group,Risk management and regulatory compliance,United States,undisclosed,-,-
+1183,Ibm,2016,Oct,Sanovi Technologies,Hybrid cloud recovery,India,undisclosed,-,-
+1184,Ibm,2017,Feb,Agile 3 Solutions,Information security,United States,undisclosed,-,-
+1185,Ibm,2017,May,Verizon – Cloud services,Cloud services,United States,undisclosed,-,-
+1186,Ibm,2017,May,XCC (division of TIMETOACT),Collaboration software,Germany,undisclosed,-,-
+1187,Ibm,2017,Sep,Cloudigo,Data Center Company,-,undisclosed,-,-
+1188,Ibm,2017,Oct,Vivant Digital,Innovation Consultancy,Australia,undisclosed,-,-
+1189,Ibm,2018,May,"Armanta, Inc.",Aggregation/analytics software for financial services firms,United States,undisclosed,-,-
+1190,Ibm,2018,Jun,Oniqua Holdings Pty Ltd.,Intelligent maintenance repair and operations (MRO) solutions,United States,undisclosed,-,-
+1191,Ibm,2019,Jul,Red Hat,Provider of open source software and solutions,United States,34000000000,-,-
+1192,Ibm,2020,Jun,Spanugo,US-based provider of cloud cybersecurity posture management solutions,United States,undisclosed,-,-
+1193,Ibm,2020,Jul,WDG,IBM to Acquire WDG Automation to Advance AI-Infused Automation Capabilities for Enterprises,Brazil,undisclosed,-,-
+1194,Ibm,2020,Nov,TruQua Enterprises,Acquisition enhances IBM's expertise in migrating financial platforms to SAP,United States,undisclosed,-,-
+1195,Ibm,2020,Nov,Instana,Acquisition continues to advance IBM's Hybrid Cloud and AIOps strategy with Application Performance Management and enterprise Observability capabilities,United States,undisclosed,-,-
+1196,Ibm,2020,Dec,Expertus Technologies Inc.,Digital payments provider,Canada,undisclosed,-,-
+1197,Ibm,2020,Dec,Nordcloud,Acquisition enhances IBM's Hybrid Cloud Consulting capabilities,Finland,undisclosed,-,-
+1198,Ibm,2021,Jan,7Summits,Acquisition drives digital transformations for Salesforce clients,United States,undisclosed,-,-
+1199,Ibm,2021,Jan,Taos,Acquisition to expand hybrid cloud consulting services,United States,undisclosed,-,-
+1200,Ibm,2021,Apr,myInvenio,Acquisition to help Organizations Use AI-powered Automation to Better Streamline Business Processes,Italy,undisclosed,-,-
+1201,Ibm,2021,May,Waeg,Acquisition to expand Salesforce consulting services,-,undisclosed,-,-
+1202,Ibm,2021,Jun,Turbonomic,Acquisition to expand AAIOps (the use of AI to automate IT Operations) to application and infrastructure observability,United States,undisclosed,-,-
+1203,Ibm,2021,Jul,BoxBoat Technologies,DevOps consultancy and enterprise Kubernetes certified service provider,United States,undisclosed,-,-
+1204,Ibm,2021,Jul,"Bluetab Solutions Group, S.L.",Hybrid cloud data and analytics consulting,Spain,undisclosed,-,-
+1205,Adobe,1990,Mar,Emerald City Software,-,-,-,-,-
+1206,Adobe,1990,Jun,BluePoint Technologies,-,-,-,-,-
+1207,Adobe,1992,Jun,LaserTools-Language Tech,-,-,-,-,-
+1208,Adobe,1992,Jun,OCR Systems,-,-,-,-,-
+1209,Adobe,1994,Aug,Aldus Corporation,-,-,437676000,-,-
+1210,Adobe,1994,Sep,LaserTools,-,-,-,-,-
+1211,Adobe,1995,-,Photoshop,-,-,-,-,-
+1212,Adobe,1995,Oct,Frame Technology,-,-,566567000,-,-
+1213,Adobe,1996,May,Ares Software,-,-,-,-,-
+1214,Adobe,1997,Mar,Sandcastle,-,-,3500000,-,-
+1215,Adobe,1997,Sep,HyWay Ferranti,-,-,-,-,-
+1216,Adobe,1997,Sep,DigiDox,-,-,-,-,-
+1217,Adobe,1999,Jan,GoLive Systems,-,-,-,-,-
+1218,Adobe,2001,Dec,Fotiva,-,-,-,-,-
+1219,Adobe,2002,Apr,Accelio,-,-,72000000,-,-
+1220,Adobe,2003,May,Syntrillium Software,-,-,-,-,-
+1221,Adobe,2003,Nov,Yellow Dragon Software-Tech,-,-,-,-,-
+1222,Adobe,2004,May,"Q-Link Technologies, Inc.",-,-,-,-,-
+1223,Adobe,2004,Dec,OKYZ,-,-,-,-,-
+1224,Adobe,2005,Dec,Macromedia,-,-,3573000000,-,-
+1225,Adobe,2005,Dec,Navisware,-,-,-,-,-
+1226,Adobe,2006,Apr,Trade and Technologies France,-,-,-,-,-
+1227,Adobe,2006,Jun,Pixmantec,-,-,-,-,-
+1228,Adobe,2006,Sep,InterAKT,-,-,-,-,-
+1229,Adobe,2006,Oct,Serious Magic Inc.,-,-,-,-,-
+1230,Adobe,2007,May,Scene7,-,-,-,-,-
+1231,Adobe,2007,Oct,Virtual Ubiquity,-,-,-,-,-
+1232,Adobe,2008,Sep,YaWah,-,-,-,-,-
+1233,Adobe,2009,Aug,Business Catalyst,-,-,-,-,-
+1234,Adobe,2009,Sep,Omniture,-,-,1800000000,-,-
+1235,Adobe,2010,Jul,Day Software,-,-,240000000,-,-
+1236,Adobe,2011,Jan,Demdex,-,-,-,-,-
+1237,Adobe,2011,Jul,EchoSign,-,-,-,-,-
+1238,Adobe,2011,Sep,Iridas Technology,-,-,-,-,-
+1239,Adobe,2011,Oct,Nitobi,-,-,-,-,-
+1240,Adobe,2011,Oct,Typekit,-,-,-,-,-
+1241,Adobe,2011,Nov,Auditude,-,-,120000000,-,-
+1242,Adobe,2011,Nov,Efficient Frontier Technology,-,-,-,-,-
+1243,Adobe,2012,Dec,Behance Inc.,-,-,-,-,-
+1244,Adobe,2013,Jul,Neolane,-,-,600000000,-,-
+1245,Adobe,2013,Jul,Satellite,-,-,-,-,-
+1246,Adobe,2014,Sep,Aviary,-,-,-,-,-
+1247,Adobe,2015,Jan,Fotolia,-,-,800000000,-,-
+1248,Adobe,2015,Jun,Mixamo,-,-,-,-,-
+1249,Adobe,2016,May,Livefyre,-,-,-,-,-
+1250,Adobe,2016,Nov,TubeMogul,-,-,540000000,-,-
+1251,Adobe,2018,Apr,Sayspring,-,-,-,-,-
+1252,Adobe,2018,Apr,Uru,-,-,-,-,-
+1253,Adobe,2018,May,Magento,-,-,1680000000,-,-
+1254,Adobe,2018,Sep,Marketo,-,-,4750000000,-,-
+1255,Adobe,2019,Jan,Allegorithmic,-,-,-,-,-
+1256,Adobe,2020,Nov,Workfront,-,-,1500000000,-,-
+1257,Facebook,2005,Aug,facebook.com domain name,-,United States,200000,-,name change from Thefacebook.com
+1258,Facebook,2007,Jul,Parakey,-,United States,-,-,Facebook Mobile
+1259,Facebook,2008,Jun,ConnectU,-,United States,31000000,-,-
+1260,Facebook,2009,Aug,FriendFeed,-,United States,47500000,-,-
+1261,Facebook,2010,Feb,Octazen,-,Malaysia,-,-,Websluths
+1262,Facebook,2010,Mar,Divvyshot,-,United States,-,-,Facebook Photos
+1263,Facebook,2010,May,Friendster patents,-,United States,40000000,-,-
+1264,Facebook,2010,May,ShareGrove,-,United States,-,-,Facebook Groups
+1265,Facebook,2010,Jul,Zenbe,-,United States,-,-,Facebook Messenger
+1266,Facebook,2010,Jul,Nextstop,-,United States,2500000,-,-
+1267,Facebook,2010,Aug,Chai Labs,-,United States,10000000,-,-
+1268,Facebook,2010,Aug,Hot Potato,-,United States,10000000,-,Facebook Places
+1269,Facebook,2010,Oct,Drop.io,-,United States,10000000,-,-
+1270,Facebook,2010,Nov,FB.com domain name,-,United States,8500000,-,-
+1271,Facebook,2011,Jan,Rel8tion,-,United States,undisclosed,-,-
+1272,Facebook,2011,Mar,Beluga,-,United States,undisclosed,-,Facebook Messenger
+1273,Facebook,2011,Mar,Snaptu,-,Ireland,70000000,-,Mobile
+1274,Facebook,2011,Mar,RecRec,-,United States,undisclosed,-,-
+1275,Facebook,2011,Apr,DayTum,-,United States,undisclosed,-,-
+1276,Facebook,2011,Jun,Sofa,-,Netherlands,undisclosed,-,-
+1277,Facebook,2011,Jun,MailRank,-,United States,undisclosed,-,-
+1278,Facebook,2011,Aug,Push Pop Press,-,United States,undisclosed,-,-
+1279,Facebook,2011,Oct,Friend.ly,-,United States,undisclosed,-,-
+1280,Facebook,2011,Nov,Strobe,-,United States,undisclosed,-,Mobile engineering team
+1281,Facebook,2011,Dec,Gowalla,-,United States,-,-,-
+1282,Facebook,2012,Feb,Caffeinatedmind,-,United States,-,-,-
+1283,Facebook,2012,Apr,Instagram,-,United States,1000000000,-,-
+1284,Facebook,2012,Apr,Tagtile,-,United States,undisclosed,-,-
+1285,Facebook,2012,May,Glancee,-,United States,undisclosed,-,-
+1286,Facebook,2012,May,Lightbox.com,-,United Kingdom,undisclosed,-,-
+1287,Facebook,2012,May,Karma,-,United States,undisclosed,-,Facebook Gifts
+1288,Facebook,2012,Jun,Face.com,-,Ireland,100000000,-,-
+1289,Facebook,2012,Jul,Spool,-,United States,undisclosed,-,Mobile engineering team
+1290,Facebook,2012,Jul,Acrylic Software,-,Canada,undisclosed,-,Facebook's design team
+1291,Facebook,2012,Aug,Threadsy,-,United States,undisclosed,-,-
+1292,Facebook,2013,Feb,Atlas Solutions,-,United States,100000000,-,-
+1293,Facebook,2013,Mar,osmeta,-,United States,-,-,-
+1294,Facebook,2013,Mar,Storylane (Mixtent),-,United States,-,-,-
+1295,Facebook,2013,Mar,Hot Studio,-,United States,-,-,-
+1296,Facebook,2013,Apr,Spaceport,-,United States,-,-,-
+1297,Facebook,2013,Apr,Parse,-,United States,85000000,-,-
+1298,Facebook,2013,Jul,Monoidics,-,United Kingdom,-,-,-
+1299,Facebook,2013,Aug,Jibbigo,-,United States,-,-,-
+1300,Facebook,2013,Oct,Onavo,-,Ireland,-,-,-
+1301,Facebook,2013,Dec,SportStream,-,United States,-,-,-
+1302,Facebook,2014,Jan,Little Eye Labs,-,India,15000000,-,-
+1303,Facebook,2014,Jan,Branch,-,United States,15000000,-,-
+1304,Facebook,2014,Feb,WhatsApp,-,United States,19000000000,-,-
+1305,Facebook,2014,Mar,Oculus VR,-,United States,2000000000,-,-
+1306,Facebook,2014,Mar,Ascenta,-,United Kingdom,20000000,-,-
+1307,Facebook,2014,Apr,ProtoGeo Oy,-,Finland,undisclosed,-,-
+1308,Facebook,2014,Aug,PrivateCore,-,United States,undisclosed,-,-
+1309,Facebook,2014,Aug,LiveRail,-,United States,-,-,-
+1310,Facebook,2014,Aug,WaveGroup Sound,-,United States,undisclosed,-,-
+1311,Facebook,2015,Jan,Wit.ai,-,United States,undisclosed,-,-
+1312,Facebook,2015,Jan,Quickfire Networks,-,United States,undisclosed,-,-
+1313,Facebook,2015,Mar,"TheFind, Inc.",-,United States,undisclosed,-,-
+1314,Facebook,2015,May,Surreal Vision,-,United Kingdom,undisclosed,-,-
+1315,Facebook,2015,Oct,Endaga,-,United States,undisclosed,-,-
+1316,Facebook,2015,Jul,Pebbles,-,Ireland,60000000,-,-
+1317,Facebook,2016,Mar,MSQRD (Masquerade),-,Belarus,undisclosed,-,-
+1318,Facebook,2016,May,Two Big Ears,-,United Kingdom,undisclosed,-,-
+1319,Facebook,2016,Sep,Nascent Objects,-,United States,undisclosed,-,-
+1320,Facebook,2016,Oct,Infiniled,-,Ireland,undisclosed,-,-
+1321,Facebook,2016,Nov,CrowdTangle,-,United States,undisclosed,-,-
+1322,Facebook,2016,Nov,Faciometrics,-,United States,undisclosed,-,-
+1323,Facebook,2016,Nov,Zurich Eye,-,-,undisclosed,-,Oculus VR
+1324,Facebook,2017,Jul,Ozlo,-,United States,undisclosed,-,Facebook Messenger
+1325,Facebook,2017,Aug,Fayteq AG,-,-,undisclosed,-,Facebook Live
+1326,Facebook,2017,Oct,tbh,-,United States,undisclosed,-,-
+1327,Facebook,2018,Jan,Confirm,-,United States,undisclosed,-,-
+1328,Facebook,2018,Jul,Bloomsbury AI,-,United Kingdom,30000000,-,-
+1329,Facebook,2018,Jul,Redkix,-,Ireland,100000000,-,Workplace by Facebook
+1330,Facebook,2018,Aug,Vidpresso,-,United States,undisclosed,-,-
+1331,Facebook,2018,Nov,Dreambit,-,-,undisclosed,-,-
+1332,Facebook,2019,Feb,Chainspace,-,United Kingdom,-,-,Facebook Blockchain
+1333,Facebook,2019,Feb,GrokStyle,-,United States,undisclosed,-,-
+1334,Facebook,2019,Sep,Servicefriend,-,Ireland,undisclosed,-,Novi
+1335,Facebook,2019,Sep,CTRL-labs,-,United States,undisclosed,-,Facebook Reality Labs
+1336,Facebook,2019,Sep,Packagd,-,United States,undisclosed,-,List of Facebook features § Marketplace
+1337,Facebook,2019,Nov,Beat Games,-,Czech Republic,undisclosed,-,Oculus Studio
+1338,Facebook,2019,Dec,PlayGiga,-,Spain,70000000,-,-
+1339,Facebook,2020,Feb,Sanzaru Games,-,United States,undisclosed,-,Oculus Studio
+1340,Facebook,2020,Feb,Scape Technologies,-,United Kingdom,40000000,-,Facebook Reality Labs
+1341,Facebook,2020,May,Giphy,-,United States,400000000,-,Instagram
+1342,Facebook,2020,Jun,Mapillary,-,Sweden,undisclosed,-,-
+1343,Facebook,2020,Jun,Ready at Dawn,-,United States,undisclosed,-,Oculus Studio
+1344,Facebook,2020,Sep,Lemnis Technologies,-,Singapore,undisclosed,-,Facebook Reality Labs
+1345,Facebook,2020,Nov,Kustomer,-,United States,1000000000,-,-
+1346,Facebook,2021,Apr,Downpour Interactive,-,United States,undisclosed,-,Oculus Studio
+1347,Facebook,2021,Jun,Unit 2 Games,-,United Kingdom,undisclosed,-,Facebook Gaming
+1348,Facebook,2021,Jun,BigBox VR,-,United States,undisclosed,-,Oculus Studio
+1349,Facebook,2021,Oct,AI.Reverie,-,United States,undisclosed,-,-
+1350,Redhat,1999,Jul,Atomic Vision,Website design,-,-,-,-
+1351,Redhat,1999,Jul,Delix Computer GmbH-Linux Div,Computers and software,-,-,-,-
+1352,Redhat,2000,Jan,Cygnus Solutions Limited,"gcc, gdb, binutils",-,674444000,-,-
+1353,Redhat,2000,May,Bluecurve,IT management software,-,37107000,-,-
+1354,Redhat,2000,Aug,Wirespeed Communications,Internet software,-,83963000,-,-
+1355,Redhat,2000,Aug,Hell's Kitchen Systems,Internet software,-,85624000,-,-
+1356,Redhat,2000,Sep,C2Net,Internet software,-,39983000,-,-
+1357,Redhat,2001,Feb,Akopia,Ecommerce websites,-,-,-,-
+1358,Redhat,2001,Feb,Planning Technologies,Consulting,-,47000000,-,-
+1359,Redhat,2002,Feb,ArsDigita,Assets and employees,-,-,-,-
+1360,Redhat,2002,Oct,NOCpulse,Software,-,-,-,-
+1361,Redhat,2003,Dec,Sistina Software,"GFS, LVM, DM",-,31000000,-,-
+1362,Redhat,2004,Sep,The Netscape Security-Certain Asts,Certain assets,-,-,-,-
+1363,Redhat,2006,Jun,JBoss,Middleware,-,420000000,-,-
+1364,Redhat,2007,Jun,MetaMatrix,Information management software,-,-,-,-
+1365,Redhat,2007,Jun,Mobicents,Telecommunications software,-,-,-,-
+1366,Redhat,2008,Mar,Amentra,Consulting,-,-,-,-
+1367,Redhat,2008,Jun,Identyx,Software,-,-,-,-
+1368,Redhat,2008,Sep,Qumranet,"KVM, RHEV, SPICE",-,107000000,-,-
+1369,Redhat,2010,Nov,Makara,Enterprise software,-,-,-,-
+1370,Redhat,2011,Oct,Gluster,GlusterFS,-,136000000,-,-
+1371,Redhat,2012,Jun,FuseSource,Enterprise integration software,-,-,-,-
+1372,Redhat,2012,Aug,Polymita,Enterprise software,-,-,-,-
+1373,Redhat,2012,Dec,ManageIQ,Orchestration software,-,104000000,-,-
+1374,Redhat,2014,Jan,The CentOS Project,CentOS,-,-,-,-
+1375,Redhat,2014,Apr,Inktank Storage,Ceph,-,175000000,-,-
+1376,Redhat,2014,Jun,eNovance,OpenStack Integration Services,-,95000000,-,-
+1377,Redhat,2014,Sep,FeedHenry,Mobile Application Platform,-,82000000,-,-
+1378,Redhat,2015,Oct,Ansible,"Configuration management, Orchestration engine",-,-,-,-
+1379,Redhat,2016,Jun,3scale,API management,-,-,-,-
+1380,Redhat,2017,May,Codenvy,Cloud software,-,-,-,-
+1381,Redhat,2017,Jul,Permabit,Data deduplication and compression,-,-,-,-
+1382,Redhat,2018,Jan,CoreOS,Management of containerized application:Container Linux by CoreOS,-,250000000,-,-
+1383,Redhat,2018,Nov,NooBaa,Cloud storage technology,-,-,-,-
+1384,Redhat,2021,Jan,StackRox,Container management software,-,-,-,-
+1385,Disney,1957,-,"Disneyland, Inc.",-,-,562500,-,-
+1386,Disney,1960,-,"Disneyland, Inc.",-,-,7500000,-,-
+1387,Disney,1965,-,WED Enterprisespark designing and engineering division,-,-,-,-,-
+1388,Disney,1982,-,Retlaw Enterprisesparks transportation division,-,-,42600000,-,-
+1389,Disney,1987,-,Wrather Corporation,-,-,-,-,-
+1390,Disney,1988,-,Wrather Corporation,-,-,-,-,-
+1391,Disney,1996,Feb,Capital Cities/ABC Inc.,-,-,19000000000,-,-
+1392,Disney,1998,Apr,Starwave,-,-,400000000,-,-
+1393,Disney,1999,Jul,Infoseek,-,-,1770000000,-,-
+1394,Disney,2001,Oct,Fox Family Worldwide,-,-,2900000000,-,-
+1395,Disney,2004,Feb,The Muppets and Bear in the Big Blue House,-,-,75000000,-,-
+1396,Disney,2006,May,Pixar,-,-,7400000000,-,-
+1397,Disney,2008,Dec,Jetix Europe,-,-,-,-,-
+1398,Disney,2009,Apr,Hulu,-,-,-,-,-
+1399,Disney,2009,Dec,Marvel,-,-,4000000000,-,-
+1400,Disney,2012,Dec,Lucasfilm,-,-,4000000000,-,-
+1401,Disney,2014,-,Maker Studios,-,-,450000000,-,-
+1402,Disney,2017,-,BAMTech,-,-,2580000000,-,-
+1403,Disney,2019,Mar,21st Century Fox,-,-,71300000000,-,-
+1404,Citrix,1997,Sep,DataPac Australasia,Server-based computing,Australia,-,-,Citrix WinFrame
+1405,Citrix,1998,Mar,Insignia NTrigue,Server-based computing and consumer electronics,United States,-,-,Citrix WinFrame
+1406,Citrix,1998,Jun,APM,Java developer,-,-,-,Citrix WinFrame and MetaFrame
+1407,Citrix,1998,Jul,VDOnet,Internet film broadcasting,Israel,-,-,Video/audio server technology
+1408,Citrix,1999,Jul,Viewsoft,Software developer for web-based application,United States,-,-,Application Linking and Embedding (ALE) software
+1409,Citrix,2000,Feb,Innovex Group,Internet consulting company,United States,-,-,Citrix Worldwide Customer Service
+1410,Citrix,2001,May,Sequoia Software Corporation,XML-based portal software developer,United States,-,-,Citrix NFuse and Metaframe
+1411,Citrix,2004,Mar,Expertcity,GoToMyPC and GoToMeeting platform developer,United States,-,-,SaaS
+1412,Citrix,2004,Dec,Net6,SSL VPN technology,United States,-,-,SSL Access Gateway and Citrix’s MetaFrame Access Suite
+1413,Citrix,2005,Aug,Netscaler,Application acceleration hardware vendor,United States,-,-,Citrix NetScaler
+1414,Citrix,2005,Nov,Teros,Firewall vendor,United States,-,-,Citrix NetScaler Application Firewall
+1415,Citrix,2006,May,Reflectent,Edgesight desktop applications performance-monitoring software developer.,United States,-,-,"Citrix Web applications performance-measuring software, core client-server applications, Presentation Server"
+1416,Citrix,2006,Aug,Orbital Data,WAN optimization,United States,-,-,Citrix WANScaler
+1417,Citrix,2007,Jan,Ardence Inc.,Server provisioning software developer,United States,-,-,"Citrix’s Management Systems Group, Provisioning Server"
+1418,Citrix,2007,Mar,thinGenius,Load testing software,United States,-,-,Presentation Server and virtual software delivery
+1419,Citrix,2007,Feb,Aurema]],E-commerce,Australia,-,-,Greater support for Presentation Server running on Microsoft Longhorn Server
+1420,Citrix,2007,Jun,Caymas Systems,Identity-based access control,United States,-,-,Citrix SSL VPN (enhanced)
+1421,Citrix,2007,Sep,QuickTree,XML security,United States,-,-,"NetScaler application-acceleration platform, WANScaler WAN-optimization gear, and Citrix Access Gateway SSL VPN device"
+1422,Citrix,2007,Oct,XenSource,Desktop and server virtualization,-,-,-,Desktop and server virtualization. XenSource became part of Citrix’s Virtualization & Management Division.
+1423,Citrix,2008,May,sepagoPROFILE,Profile management technology developer,Germany,-,-,"Citrix XenDesktop, XenApp, and User Profile Manager"
+1424,Citrix,2008,Mar,Deterministics Network,Software-based scalable secure network acceleration and bandwidth management,United States,-,-,Citrix Deterministics Network
+1425,Citrix,2009,-,Vidsoft,High definition video streaming,Germany,-,-,"HDFaces within GoToMeeting, GoToWebinar, and GoToTraining"
+1426,Citrix,2008,Nov,Vapps,High definition audio conference call equipment,United States,-,-,GoToMeeting
+1427,Citrix,2010,Feb,Paglo Labs,SaaS-based IT management,United States,-,-,GoToManage
+1428,Citrix,2010,Aug,VMLogix Inc.,Virtualization automation and management,United States,-,-,XenServer
+1429,Citrix,2011,Feb,Netviewer,SaaS vendor in collaboration and IT services,Germany,-,-,Citrix’s online services division
+1430,Citrix,2011,Feb,EMS-Cortex,Cloud services provisioning and management,New Zealand,-,-,"XenApp, Cloud Portal Services Manager"
+1431,Citrix,2011,May,Kaviza,Virtual desktop infrastructure (VDI) developer,United States,-,-,VDI-in-a-box
+1432,Citrix,2011,Jul,Cloud.com,Cloud computing,United States,-,-,"Citrix CloudPlatform OpenStack, open source cloud stack"
+1433,Citrix,2011,Aug,RingCube,Personalized virtual desktop,United States,-,-,XenDesktop
+1434,Citrix,2011,Oct,ShareFile,Enterprise file-sharing solution,United States,-,-,ShareFile
+1435,Citrix,2011,Oct,App-DNA,Software migration,-,-,-,Citrix Desktop Transformation Model
+1436,Citrix,2012,Feb,Apere,Network security,United States,-,-,"Software as a service (SaaS), Single sign-on Security (SSO)"
+1437,Citrix,2012,Apr,Podio,Cloud-based social network for businesses,Denmark,-,-,GoTo cloud services
+1438,Citrix,2012,May,Virtual Computer,Virtual desktop technology,United States,-,-,XenClient
+1439,Citrix,2012,Jul,Bytemobile,Mobile data and video optimization,United States,-,-,NetScaler
+1440,Citrix,2012,Sep,Beetil,Cloud-based service desk technology provider,New Zealand,-,-,GoToAssist
+1441,Citrix,2013,Jan,Zenprise,Mobile device management,United States,-,-,XenMobile
+1442,Citrix,2013,Sep,Byte Squared,iPad document editing,-,-,-,ShareFile
+1443,Citrix,2013,Dec,Skytide,iPad document editing,-,-,-,ByteMobile
+1444,Citrix,2014,Jan,FrameHawk,Mobile delivery of virtual desktop,United States,-,-,HDX technology for XenApp and XenDesktop
+1445,Citrix,2014,May,ScaleXtreme,Application management,United States,-,-,Workspace Services
+1446,Citrix,2014,Aug,Virtual,Android and IOS virtualization,United States,-,-,Enterprise mobility products
+1447,Citrix,2014,Oct,RightSignature,Online signing tools,United States,-,-,ShareFile
+1448,Citrix,2014,Nov,Solid Instance,Microsoft Windows virtual application delivery,United States,-,-,Virtual desktop delivery
+1449,Citrix,2014,Dec,Octoblu,Networking,United States,-,-,Citrix Octoblu
+1450,Citrix,2015,Jan,Sanbolic,Storage virtualization,United States,-,-,Melio
+1451,Citrix,2015,Apr,Grasshopper,Telephone services,United States,-,-,"GoToMeeting, GoToTraining, GoToWebinar, ShareFile, and OpenVoice"
+1452,Citrix,2016,Sep,Norskale,UEM and application performance optimization,France,-,-,"XenApp, XenDesktop"
+1453,Citrix,2017,Jan,Unidesk,-,United States,-,-,"XenApp, XenDesktop"
+1454,Citrix,2018,Feb,Cedexis,Intelligent traffic management,France,-,-,Citrix ITM
+1455,Citrix,2021,Mar,Wrike,Project management,United States,-,-,Citrix Workspace
