@@ -1,11 +1,12 @@
 # Mergers & Acquisitions Stock Price Prediction
-
+[![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com)
+[![Gem Version](https://badge.fury.io/rb/colorls.svg)](https://badge.fury.io/rb/colorls)
 ## Table of contents
 - [Economic Background & Motivation](#motivation)
 - [Methods](#methods)
 - [Results](#results)
 - [Prospects](#prospects)
-
+- [Sources](#sources)
 
 ## Economic Background & Motivation
 
@@ -41,18 +42,25 @@ Trefore it is not far fetched to assume that the stock price of a company before
 
 ## Methods
  - Data Sources
-    - SEC Filings
-    - Kaggle MAA Dataset
+    - SEC Filings (Talk bs and explain why didnt work)
+    - Kaggle MAA Dataset (link)
     - yfinance
-    - Dataset: What is conatained? 
+    - Dataset: What is conatained? show head or smth.
     - Data Wrangling / cleaning
  - Database
     - Amazon AWS
     - pymysql 
+    - 300 - 300 seq -> from which we can form smaller ones if more short or long term stuff favourbalef
  - Transformer / Informer Network
- - Training
- - Inference
+   - Why transformer  . attention... show sources why ..
+   - Testing of Transformer
+ - Training  different modes (classiscal, sliding window, autoregressive as in informer)
+ - Inference  (only explain the one)
 
 ## Results
-
+  - Show good results short and long term.
+  - > Some good some bad, maybe make something like correalation or smth to show if it is usable for arbitrage or not.
 ## Prospects
+  - What can be done better?
+  - Mainly more data, more KPI's like...
+## Sources
