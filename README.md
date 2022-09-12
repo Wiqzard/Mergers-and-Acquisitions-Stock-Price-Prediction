@@ -51,7 +51,7 @@ Therefore it is not far fetched to assume that the stock price of a company befo
     - The stock data was partially incomplete. Some of the in total 300 character long sequences of stock data were completely empty, or partially empty for instance every weekend. If the intervals of missing data was not longer than 4, they got filled with the pre and perceeding data equally. The other ones got discarded.
     - Only roughly 10% of the acquisition events provided information about the acquisition price.
     
-    - The data has been uploaded to a database hosted on Amazon AWS.
+    - The data has been uploaded to a database hosted on Amazon AWS RDS.
     - The SQL and data parsing was exercised with the python framework pymysql
     - 
  - Transformer / Informer Network
