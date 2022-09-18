@@ -1,4 +1,4 @@
-# Mergers & Acquisitions Stock Price Prediction
+# Mergers & Acquisitions Stock Price Prediction(IN PROGRESS)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com)
 [![Gem Version](https://badge.fury.io/rb/colorls.svg)](https://badge.fury.io/rb/colorls)
 ## Table of contents
