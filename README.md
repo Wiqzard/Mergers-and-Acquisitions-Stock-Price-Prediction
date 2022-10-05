@@ -63,7 +63,7 @@ Therefore it is not far-fetched to assume that the stock price of a company befo
 - As expected results show only granular trends for a medium ranged prediction (around 50 days)
   - What can be done better?
   - The main problem was the lack of data.
-  - Build the model upon architectures like Temporal Fusion Transformer or Informers which have been developed specifically for time series tasks.
+  - Build the model upon architectures like Temporal Fusion Transformer which have been developed specifically for time series tasks.
 ## Sources
 
 * https://arxiv.org/pdf/2205.01138.pdf
