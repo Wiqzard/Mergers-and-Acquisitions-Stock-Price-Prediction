@@ -3,10 +3,10 @@ import requests
 import pandas as pd
 
 
-url_fin_maa = "https://financialmodelingprep.com/api/v4/mergers-acquisitions-rss-feed?page=0&apikey=97f0aa24a2135e44b837816823899d77"
+url_fin_maa = "https://financialmodelingprep.com/api/v4/mergers-acquisitions-rss-feed?page=0&apikey="
 # Company Enterprise Value
-url_fin_kpi = "https://financialmodelingprep.com/api/v3/enterprise-values/AAPL?apikey=97f0aa24a2135e44b837816823899d77"
-url_fin_symbol = "https://financialmodelingprep.com/api/v3/available-traded/list?apikey=97f0aa24a2135e44b837816823899d77"
+url_fin_kpi = "https://financialmodelingprep.com/api/v3/enterprise-values/AAPL?apikey="
+url_fin_symbol = "https://financialmodelingprep.com/api/v3/available-traded/list?apikey="
 
 # SYMBOL | Name ...
 def api_request_symbol() -> list:  # Returns list of dictionaries received from API
