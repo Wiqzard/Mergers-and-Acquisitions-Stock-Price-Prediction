@@ -58,6 +58,11 @@ Therefore it is not far-fetched to assume that the stock price of a company befo
   manner, i.e. in one forward pass. And classically, where the next time point following the input sequence is predicted which gets fed into the 
   transformer for predicting multiple steps.
    - In the former during inference, the SOS token gets replaced with the label_len last encoder inputs.
+## Results
+* Best results of transformer of the form:
+
+* Informer results:
+
 
 ## Prospects
 - As expected results show only granular trends for a medium ranged prediction (around 50 days)
@@ -70,3 +75,5 @@ Therefore it is not far-fetched to assume that the stock price of a company befo
 * https://arxiv.org/pdf/2001.08317.pdf
 * https://arxiv.org/pdf/2012.07436.pdf
 * https://arxiv.org/pdf/2204.11115.pdf
+* https://arxiv.org/pdf/2012.07436.pdf
+* https://github.com/zhouhaoyi/Informer2020
