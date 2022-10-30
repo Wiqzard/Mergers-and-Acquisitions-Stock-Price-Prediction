@@ -75,6 +75,9 @@ Therefore it is not far-fetched to assume that the stock price of a company befo
   *Statistics of data*
   ![alt text](https://github.com/Wiqzard/Mergers-and-Acquisitions-Stock-Price-Prediction/blob/master/pics/statistics1.png)
   ![alt text](https://github.com/Wiqzard/Mergers-and-Acquisitions-Stock-Price-Prediction/blob/master/pics/statistics2.png)
+  
+  - Comparison with ARIMA model fitted to individual M&A's:
+     - avg_MAE: 2.87  ---   avg_MSE: 50.1
 ## Prospects
 - As expected results show only granular trends for a medium ranged prediction (around 50 days)
   - What can be done better?
