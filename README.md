@@ -59,11 +59,22 @@ Therefore it is not far-fetched to assume that the stock price of a company befo
   transformer for predicting multiple steps.
    - In the former during inference, the SOS token gets replaced with the label_len last encoder inputs.
 ## Results
-* Best results of transformer of the form:
-
-* Informer results:
-
-
+* Best results achieved with InformerStack(enc_in=1, dec_in=1, c_out=1, seq_len=seq_len, label_len=label_len, out_len=pred_len, 
+                 factor=5, d_model=512, n_heads=8, e_layers=[3,2,1], d_layers=2, d_ff=2048, 
+                 dropout=0) on 120 epochs:
+  - On the training set:
+     - avg_R2: 0.901  ---  avg_MAE: 0.243   ---   avg_MSE: 0.189 (unscaled)
+  - On the test set:
+     - avg_R2: 0.324  ---  avg_MAE: 0.708   ---   avg_MSE: 2.14 (unscaled)
+     - avg_R2: 0.324  ---  avg_MAE: 0.310   ---   avg_MSE: 0.236 (standard scaled)
+     
+  *Good result on the test set*
+  ![alt text](https://github.com/Wiqzard/Mergers-and-Acquisitions-Stock-Price-Prediction/blob/master/pics/2.png)
+  *Bad result on the test set*
+  ![alt text](https://github.com/Wiqzard/Mergers-and-Acquisitions-Stock-Price-Prediction/blob/master/pics/bad.png)
+  *Statistics of data*
+  ![alt text](https://github.com/Wiqzard/Mergers-and-Acquisitions-Stock-Price-Prediction/blob/master/pics/statistics1.png)
+  ![alt text](https://github.com/Wiqzard/Mergers-and-Acquisitions-Stock-Price-Prediction/blob/master/pics/statistics2.png)
 ## Prospects
 - As expected results show only granular trends for a medium ranged prediction (around 50 days)
   - What can be done better?
