@@ -113,6 +113,7 @@ Therefore it is not far-fetched to assume that the stock price of a company befo
   - The main problem was the lack of data.
   - Gather more data, especially with features such as acquiree value, acquirer value, deal price, etc.
   - Use the data as an additional input to the output layer.
+  - Use random window of stock date where no M&A occured to gauge the effect.
 ## Sources
 
 * https://arxiv.org/pdf/2205.01138.pdf
