@@ -65,11 +65,11 @@ Therefore it is not far-fetched to assume that the stock price of a company befo
   - On the training set:
      - avg_R2: 0.901  ---  avg_MAE: 0.243   ---   avg_MSE: 0.189 (unscaled)
   - On the test set:
-     - avg_R2: 0.324  ---  avg_MAE: 0.708   ---   avg_MSE: 2.14 (unscaled)
-     - avg_R2: 0.324  ---  avg_MAE: 0.310   ---   avg_MSE: 0.236 (standard scaled)
+     - avg_R2: 0.034  ---  avg_MAE: 1.59   ---   avg_MSE: 9.44   (unscaled)
+     - avg_R2: 0.034  ---  avg_MAE: 0.439   ---   avg_MSE: 0.357 (standard scaled)
      
   *Good result on the test set*
-  ![alt text](https://github.com/Wiqzard/Mergers-and-Acquisitions-Stock-Price-Prediction/blob/master/pics/2.png)
+  ![alt text](https://github.com/Wiqzard/Mergers-and-Acquisitions-Stock-Price-Prediction/blob/master/pics/ok2.png)
   *Bad result on the test set*
   ![alt text](https://github.com/Wiqzard/Mergers-and-Acquisitions-Stock-Price-Prediction/blob/master/pics/bad.png)
   *Statistics of data*
