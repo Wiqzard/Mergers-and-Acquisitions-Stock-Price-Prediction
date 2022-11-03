@@ -83,7 +83,7 @@ Therefore it is not far-fetched to assume that the stock price of a company befo
   transformer for predicting multiple steps.
 
    - In the former during inference, the SOS token gets replaced with the label_len last encoder inputs.
-## Results(Probably still duplicates in data blurring results)
+## Results
 * Best results achieved with InformerStack(enc_in=1, dec_in=1, c_out=1, seq_len=seq_len, label_len=label_len, out_len=pred_len, 
                  factor=5, d_model=512, n_heads=8, e_layers=[3,2,1], d_layers=2, d_ff=2048, 
                  dropout=0) on 120 epochs:
