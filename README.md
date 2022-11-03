@@ -75,15 +75,11 @@ Therefore it is not far-fetched to assume that the stock price of a company befo
  - Transformer / Informer Network
 
     - Because of their attention mechanism Transformer networks have been proven in many recent publications to be efficient in capturing long-term   
-
    processes in time series forecasting. To capture positional and temporal data, positional encoding from "Attention is all you need" and time2vec time 
-
    embedding is implemented.
 
    - 2 different modes have been tested. One where the transformer predicts the n days starting from the end of the input sequence in an autoregressive 
-
   manner, i.e. in one forward pass. And classically, where the next time point following the input sequence is predicted which gets fed into the 
-
   transformer for predicting multiple steps.
 
    - In the former during inference, the SOS token gets replaced with the label_len last encoder inputs.
